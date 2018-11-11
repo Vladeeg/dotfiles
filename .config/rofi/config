@@ -1,0 +1,11 @@
+rofi.combi-modi:     window,drun,run
+rofi.color-enabled:  true
+rofi.theme:          theme.rasi
+rofi.modi:           window,drun,run
+rofi.font:           URW Gothic L, 10
+rofi.width:          75 %                 
+rofi.display-drun:   Apps 
+rofi.display-run:    Run 
+rofi.display-combi:  Apps
+rofi.display-window: Window 
+rofi.sidebar-mode:   true
