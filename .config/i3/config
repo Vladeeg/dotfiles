@@ -17,20 +17,26 @@ set $up    k
 set $right l
 set $shutdown sudo -A shutdown -h now
 
+set $gap_inner 10
+set $gap_outer 5
+
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Sans 8
+font xft:URW Gothic L, bold 8 
 
 # Gaps
 for_window [class="^.*"] border pixel 2
-gaps inner 10
-gaps outer 5
+gaps inner $gap_inner
+gaps outer $gap_outer
 
 bindsym $mod+s       gaps inner current plus  5
 bindsym $mod+Shift+s gaps inner current minus 5
 
 bindsym $mod+z       gaps outer current plus  5
 bindsym $mod+Shift+z gaps outer current minus 5
+
+bindsym $mod+Shift+d gaps inner current set 0;          gaps outer current set 0
+bindsym $mod+Shift+t gaps inner current set $gap_inner; gaps outer current set $gap_outer
 
 hide_edge_borders both
 
@@ -41,7 +47,7 @@ bindsym Print exec --no-startup-id scrot -e 'mv $f ~/shots/'
 exec --no-startup-id "setxkbmap -model pc101 -layout us,ru -option grp:alt_shift_toggle"
 
 # Background image
-exec-always --no-startup-id feh --bg-scale /home/vlad/.wallpaper.jpg
+# exec-always --no-startup-id feh --bg-scale /home/vlad/.wallpaper.jpg
 
 # Compositor
 exec --no-startup-id compton
@@ -152,34 +158,47 @@ bindsym $mod+Shift+r restart
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
 
 # Volume keys
-bindsym $mod+plus        exec --no-startup-id pactl set-sink-volume 0 +5%  
-bindsym $mod+Shift+plus  exec --no-startup-id pactl set-sink-volume 0 +15% 
-bindsym $mod+minus       exec --no-startup-id pactl set-sink-volume 0 -5%  
-bindsym $mod+Shift+minus exec --no-startup-id pactl set-sink-volume 0 -15% 
-bindsym $mod+F10         exec --no-startup-id pactl set-sink-mute 0 toggle
+bindsym $mod+plus                   exec --no-startup-id pactl set-sink-volume 0 +5%  
+bindsym $mod+Shift+plus             exec --no-startup-id pactl set-sink-volume 0 +15% 
+bindsym $mod+minus                  exec --no-startup-id pactl set-sink-volume 0 -5%  
+bindsym $mod+Shift+minus            exec --no-startup-id pactl set-sink-volume 0 -15% 
+bindsym $mod+F10                    exec --no-startup-id pactl set-sink-mute 0 toggle
+
+bindsym XF86AudioRaiseVolume        exec --no-startup-id pactl set-sink-volume 0 +5%  
+bindsym XF86AudioLowerVolume        exec --no-startup-id pactl set-sink-volume 0 -5%  
+bindsym XF86AudioMute               exec --no-startup-id pactl set-sink-mute 0 toggle
+
+# Brigtness
+bindsym XF86MonBrightnessUp         exec "xbacklight -inc 10; notify-send 'brightness up'"
+bindsym XF86MonBrightnessDown       exec "xbacklight -dec 10; notify-send 'brightness down'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
+    # These bindings trigger as soon as you enter the resize mode
 
-        # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
-        # Pressing down will grow the window’s height.
-        bindsym $left  resize shrink width 10 px or 10 ppt
-        bindsym $up    resize grow height 10 px or 10 ppt
-        bindsym $down  resize shrink height 10 px or 10 ppt
-        bindsym $right resize grow width 10 px or 10 ppt
+    # Pressing left will shrink the window’s width.
+    # Pressing right will grow the window’s width.
+    # Pressing up will shrink the window’s height.
+    # Pressing down will grow the window’s height.
+    bindsym Shift+$left  resize shrink width 10 px or 10 ppt
+    bindsym Shift+$up    resize grow height 10 px or 10 ppt
+    bindsym Shift+$down  resize shrink height 10 px or 10 ppt
+    bindsym Shift+$right resize grow width 10 px or 10 ppt
 
-        # same bindings, but for the arrow keys
-        bindsym Left  resize shrink width 10 px or 10 ppt
-        bindsym Down  resize grow height 10 px or 10 ppt
-        bindsym Up    resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
+    bindsym $left  resize shrink width 5 px or 5 ppt
+    bindsym $up    resize grow height 5 px or 5 ppt
+    bindsym $down  resize shrink height 5 px or 5 ppt
+    bindsym $right resize grow width 5 px or 5 ppt
 
-        # back to normal: Enter or Escape
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
+    # same bindings, but for the arrow keys
+    bindsym Left  resize shrink width 10 px or 10 ppt
+    bindsym Down  resize grow height 10 px or 10 ppt
+    bindsym Up    resize shrink height 10 px or 10 ppt
+    bindsym Right resize grow width 10 px or 10 ppt
+
+    # back to normal: Enter or Escape
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
 }
 
 bindsym $mod+r mode "resize"
@@ -187,10 +206,11 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-  status_command i3blocks
-  tray_output primary
-  position top
+    status_command i3blocks
+    tray_output primary
+    position top
 }
 
+# Locker
 bindsym $mod+x exec i3lock-fancy
 
