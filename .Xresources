@@ -1,0 +1,11 @@
+Xft.hinting:   1
+Xft.hintstyle: hintslight
+Xft.antialias: 1
+Xft.dpi:       96
+Xft.rgba:      rgb
+Xft.lcdfilter: lcddefault
+
+URxvt.depth:       32
+URxvt*font:        xft:DejaVu Sans Mono:size=10
+URxvt.letterSpace: 0
+URxvt.scrollBar:   false
