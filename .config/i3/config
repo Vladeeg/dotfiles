@@ -10,24 +10,33 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 # Basic variables
+set $term  $TERMINAL
+
 set $mod   Mod4
 set $left  h
 set $down  j
 set $up    k
 set $right l
-set $shutdown sudo -A shutdown -h now
 
-set $gap_inner 10
-set $gap_outer 5
+set $shrink_width  u
+set $grow_height   o
+set $shrink_height i
+set $grow_width    p 
+
+set $shutdown systemctl poweroff
+
+set $gap_inner 5
+set $gap_outer 0
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 font xft:URW Gothic L, bold 8 
 
 # Gaps
-for_window [class="^.*"] border pixel 2
+for_window [class="^.*"] border pixel 1
 gaps inner $gap_inner
 gaps outer $gap_outer
+smart_gaps on
 
 bindsym $mod+s       gaps inner current plus  5
 bindsym $mod+Shift+s gaps inner current minus 5
@@ -40,27 +49,28 @@ bindsym $mod+Shift+t gaps inner current set $gap_inner; gaps outer current set $
 
 hide_edge_borders both
 
-exec --no-startup-id nitrogen --restore
-
-# Screenshots
-bindsym Print exec --no-startup-id scrot -e 'mv $f ~/shots/'
-bindsym --release Shift+Print exec --no-startup-id scrot -s -e 'mv $f ~/shots/'
-# bindsym Mod1+Print exec --no-startup-id scrot -u -b -e 'mv $f ~/shots/'
-
-# Enable Alt+Shift for changing layout
-exec --no-startup-id "setxkbmap -model pc101 -layout us,ru -option grp:alt_shift_toggle"
-
-# Background image
-# exec-always --no-startup-id feh --bg-scale /home/vlad/.wallpaper.jpg
+# Xfce4 services
+exec --no-startup-id xfsettingsd --sm-client-disable &
+exec --no-startup-id xfce4-volumed &
+exec --no-startup-id xfce4-power-manager &
+# Network manager applet
+exec --no-startup-id nm-applet &
 
 # Compositor
 exec --no-startup-id compton
+# Wallpaper and colorscheme
+exec --no-startup-id wal -a 90 -i $HOME/.wallpaper.jpg 
+
+# Screenshots
+# bindsym Print exec --no-startup-id scrot -e 'mv $f ~/shots/'
+# bindsym --release Shift+Print exec --no-startup-id scrot -s -e 'mv $f ~/shots/'
+# bindsym Mod1+Print exec --no-startup-id scrot -u -b -e 'mv $f ~/shots/'
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec $term
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -68,7 +78,7 @@ bindsym $mod+Shift+q kill
 # start rofi (a program launcher)
 bindsym $mod+d exec rofi -show run
 bindsym $mod+Tab exec rofi -show window
-bindsym Mod1+r exec rofi -show drun
+bindsym $mod+r exec rofi -show drun
 
 # change focus
 bindsym $mod+$left  focus left
@@ -118,7 +128,7 @@ bindsym $mod+space focus mode_toggle
 bindsym $mod+a focus parent
 
 # focus the child container
-# bindsym $mod+d focus child
+bindsym $mod+c focus child
 
 # Workspaces vars set
 set $ws1  "1"
@@ -162,61 +172,106 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+x exec "i3-nagbar -t warning -m 'You pressed the shutdown shortcut. Do you really want to poweroff your computer?' -b 'Yes, shutdown' 'systemctl poweroff'"
 
 # Volume keys
-bindsym $mod+plus                   exec --no-startup-id pactl set-sink-volume 0 +5% ; exec pkill  -RTMIN+10 i3blocks
-bindsym $mod+Shift+plus             exec --no-startup-id pactl set-sink-volume 0 +15%; exec pkill  -RTMIN+10 i3blocks 
-bindsym $mod+minus                  exec --no-startup-id pactl set-sink-volume 0 -5% ; exec pkill  -RTMIN+10 i3blocks 
-bindsym $mod+Shift+minus            exec --no-startup-id pactl set-sink-volume 0 -15%; exec pkill  -RTMIN+10 i3blocks 
-bindsym $mod+F10                    exec --no-startup-id pactl set-sink-mute 0 toggle; exec pkill  -RTMIN+10 i3blocks
+set $vol_up       exec --no-startup-id pactl set-sink-volume 0 +5% 
+set $vol_big_up   exec --no-startup-id pactl set-sink-volume 0 +15%
+set $vol_down     exec --no-startup-id pactl set-sink-volume 0 -5% 
+set $vol_big_down exec --no-startup-id pactl set-sink-volume 0 -15%
+set $vol_mute     exec --no-startup-id pactl set-sink-mute 0 toggle
 
-bindsym XF86AudioRaiseVolume        exec --no-startup-id pactl set-sink-volume 0 +5% ; exec pkill  -RTMIN+10 i3blocks
-bindsym XF86AudioLowerVolume        exec --no-startup-id pactl set-sink-volume 0 -5% ; exec pkill  -RTMIN+10 i3blocks
-bindsym XF86AudioMute               exec --no-startup-id pactl set-sink-mute 0 toggle; exec pkill  -RTMIN+10 i3blocks
+set $vol_blocks_signal exec pkill  -RTMIN+10 i3blocks
 
-# Brigtness
-bindsym XF86MonBrightnessUp         exec "xbacklight -inc 10; notify-send 'brightness up'"
-bindsym XF86MonBrightnessDown       exec "xbacklight -dec 10; notify-send 'brightness down'"
+bindsym $mod+plus              $vol_up;       $vol_blocks_signal
+bindsym $mod+Shift+plus        $vol_big_up;   $vol_blocks_signal
+bindsym $mod+minus             $vol_down;     $vol_blocks_signal
+bindsym $mod+Shift+minus       $vol_big_down; $vol_blocks_signal
+bindsym $mod+F10               $vol_mute;     $vol_blocks_signal
+
+bindsym XF86AudioRaiseVolume   $vol_up;       $vol_blocks_signal
+bindsym XF86AudioLowerVolume   $vol_down;     $vol_blocks_signal
+bindsym XF86AudioMute          $vol_mute;     $vol_blocks_signal
+
+exec --no-startup-id i3mpdupdate
+
+# Music keys
+set $music_toggle      exec --no-startup-id mpc toggle
+set $music_next        exec --no-startup-id mpc next
+set $music_prev        exec --no-startup-id mpc prev
+set $music_backward    exec --no-startup-id mpc seek -10
+set $music_forward     exec --no-startup-id mpc seek +10
+
+bindsym $mod+m             $music_toggle
+bindsym $mod+less          $music_prev
+bindsym $mod+greater       $music_next
+bindsym $mod+bracketleft   $music_backward
+bindsym $mod+bracketright  $music_forward
+
+bindsym XF86AudioPlay      $music_toggle
+bindsym XF86AudioPrev      $music_prev
+bindsym XF86AudioNext      $music_next
+
+# Brightness
+# bindsym XF86MonBrightnessUp         exec "xbacklight -inc 10; notify-send 'brightness up'"
+# bindsym XF86MonBrightnessDown       exec "xbacklight -dec 10; notify-send 'brightness down'"
 
 # resize window (you can also use the mouse for that)
-mode "resize" {
-    # These bindings trigger as soon as you enter the resize mode
+bindsym $mod+Shift+$shrink_width  resize shrink width  10 px or 10 ppt
+bindsym $mod+Shift+$grow_height   resize grow height   10 px or 10 ppt
+bindsym $mod+Shift+$shrink_height resize shrink height 10 px or 10 ppt
+bindsym $mod+Shift+$grow_width    resize grow width    10 px or 10 ppt
 
-    # Pressing left will shrink the window’s width.
-    # Pressing right will grow the window’s width.
-    # Pressing up will shrink the window’s height.
-    # Pressing down will grow the window’s height.
-    bindsym Shift+$left  resize shrink width 10 px or 10 ppt
-    bindsym Shift+$up    resize grow height 10 px or 10 ppt
-    bindsym Shift+$down  resize shrink height 10 px or 10 ppt
-    bindsym Shift+$right resize grow width 10 px or 10 ppt
+bindsym $mod+$shrink_width  resize shrink width  5 px or 5 ppt
+bindsym $mod+$grow_height   resize grow height   5 px or 5 ppt
+bindsym $mod+$shrink_height resize shrink height 5 px or 5 ppt
+bindsym $mod+$grow_width    resize grow width    5 px or 5 ppt
 
-    bindsym $left  resize shrink width 5 px or 5 ppt
-    bindsym $up    resize grow height 5 px or 5 ppt
-    bindsym $down  resize shrink height 5 px or 5 ppt
-    bindsym $right resize grow width 5 px or 5 ppt
+# Set Xresources colors:
+set_from_resource $darkblack   color0  #000000
+set_from_resource $black       color8  #101010
+set_from_resource $darkred     color1  #aa0000
+set_from_resource $red         color9  #ff0000
+set_from_resource $darkgreen   color2  #00aa00
+set_from_resource $green       color10 #00ff00
+set_from_resource $darkyellow  color3  #aaaa00
+set_from_resource $yellow      color11 #ffff00
+set_from_resource $darkblue    color4  #0000aa
+set_from_resource $blue        color12 #0000ff
+set_from_resource $darkmagenta color5  #aa00aa
+set_from_resource $magenta     color13 #ff00ff
+set_from_resource $darkcyan    color6  #00aaaa
+set_from_resource $cyan        color14 #00ffff
+set_from_resource $darkwhite   color7  #aaaaaa
+set_from_resource $white       color15 #ffffff
+set $transparent                       #00000000
 
-    # same bindings, but for the arrow keys
-    bindsym Left  resize shrink width 10 px or 10 ppt
-    bindsym Down  resize grow height 10 px or 10 ppt
-    bindsym Up    resize shrink height 10 px or 10 ppt
-    bindsym Right resize grow width 10 px or 10 ppt
-
-    # back to normal: Enter or Escape
-    bindsym Return mode "default"
-    bindsym Escape mode "default"
-}
-
-bindsym $mod+r mode "resize"
+#                        BORDER        BACKGROUND    TEXT         INDICATOR   CHILD_BORDER
+client.focused $red      $red          $magenta     $darkmagenta  $darkblue
+client.unfocused         $transparent  $blue        $white        $darkblue   $darkblack
+client.focused_inactive  $transparent  $blue        $white        $darkblue   $darkblack
+client.urgent            $darkred      $darkred     $black        $darkred    $darkred
+client.background        $black 
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-    status_command i3blocks -c ~/.config/i3blocks/i3blocks.conf
-    tray_output primary
+    status_command i3blocks # -c ~/.config/i3/i3blocks.conf
+#    tray_output primary
     position top
+    colors {
+        background         $darkblack
+        statusline         $white
+        separator          $cyan
+        focused_workspace  $blue      $darkblue  $darkblack
+        active_workspace   $blue      $blue      $darkwhite
+        inactive_workspace $darkblack $darkblack $white
+        urgent_workspace   $darkblack $darkblack $white
+    }
 }
 
+# exec --no-startup-id $HOME/.config/polybar/launch.sh
+
 # Locker
-bindsym $mod+x exec i3lock-fancy
+bindsym $mod+x exec i3lock
 

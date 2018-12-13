@@ -1,6 +1,6 @@
 rofi.combi-modi:     window,drun,run
 rofi.color-enabled:  true
-rofi.theme:          theme.rasi
+rofi.theme:          ~/.cache/wal/colors-rofi-dark.rasi
 rofi.modi:           window,drun,run
 rofi.font:           URW Gothic L, 10
 rofi.width:          75 %                 

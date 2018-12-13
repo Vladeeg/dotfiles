@@ -2,9 +2,9 @@ call plug#begin('~/.vim/plugged')
 
 " navigation
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
-Plug 'kien/ctrlp.vim'
+" Plug 'kien/ctrlp.vim'
 Plug 'easymotion/vim-easymotion'
-Plug 'rking/ag.vim'
+" Plug 'rking/ag.vim'
 " git
 Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-fugitive'
@@ -12,8 +12,8 @@ Plug 'tpope/vim-fugitive'
 Plug 'editorconfig/editorconfig-vim'
 Plug 'jiangmiao/auto-pairs'
 " colorschemes
-Plug 'morhetz/gruvbox'
-Plug 'sjl/badwolf'
+" Plug 'morhetz/gruvbox'
+" Plug 'sjl/badwolf'
 
 call plug#end()
 
