@@ -1,4 +1,4 @@
-[Default Item Styles - Schema Breeze Dark]
+[Default Item Styles - Schema Vladeeg Wal Dark]
 Alert=ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},-,,---
 Annotation=ff{color8.strip},ff{color10.strip},,,,,-,-,,---
 Attribute=ff{color12.strip},ff{color11.strip},,,,,-,-,,---
@@ -61,14 +61,14 @@ Color Template Focused Editable Placeholder={color2.rgb}
 Color Template Not Editable Placeholder={color1.rgb}
 Color Word Wrap Marker={color0.rgb}
 
-[Highlighting .desktop - Schema Breeze Dark]
+[Highlighting .desktop - Schema Vladeeg Wal Dark]
 .desktop:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 .desktop:Key=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 .desktop:Language=17,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 .desktop:Normal Text=0,,,,,,,,,,---
 .desktop:Section=1,,,1,,,,,,,---
 
-[Highlighting 4DOS BatchToMemory - Schema Breeze Dark]
+[Highlighting 4DOS BatchToMemory - Schema Vladeeg Wal Dark]
 4DOS BatchToMemory:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 4DOS BatchToMemory:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 4DOS BatchToMemory:Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
@@ -85,7 +85,7 @@ Color Word Wrap Marker={color0.rgb}
 4DOS BatchToMemory:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 4DOS BatchToMemory:VariableBold=3,ff{color14.strip},ff{color14.strip},1,,,,,,,---
 
-[Highlighting 4GL - Schema Breeze Dark]
+[Highlighting 4GL - Schema Vladeeg Wal Dark]
 4GL:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 4GL:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 4GL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -102,7 +102,7 @@ Color Word Wrap Marker={color0.rgb}
 4GL:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 4GL:Symbol=0,,,,,,,,,,---
 
-[Highlighting 4GL-PER - Schema Breeze Dark]
+[Highlighting 4GL-PER - Schema Vladeeg Wal Dark]
 4GL-PER:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 4GL-PER:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 4GL-PER:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -119,13 +119,13 @@ Color Word Wrap Marker={color0.rgb}
 4GL-PER:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 4GL-PER:Symbol=0,,,,,,,,,,---
 
-[Highlighting ABAP - Schema Breeze Dark]
+[Highlighting ABAP - Schema Vladeeg Wal Dark]
 ABAP:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 ABAP:Keyword=1,,,1,,,,,,,---
 ABAP:Normal Text=0,,,,,,,,,,---
 ABAP:Symbol=0,,,,,,,,,,---
 
-[Highlighting ABC - Schema Breeze Dark]
+[Highlighting ABC - Schema Vladeeg Wal Dark]
 ABC:Bar=10,ff{color12.strip},ff{color6.strip},,,,,,,,---
 ABC:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 ABC:Decoration=19,ff{color14.strip},ff{color11.strip},,,,,,,,---
@@ -138,7 +138,7 @@ ABC:Slur=16,ff{color12.strip},ff{color11.strip},1,,,,,,,---
 ABC:String=12,ff{color1.strip},ff{color1.strip},1,,,,,,,---
 ABC:Tuplet=16,ff{color13.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting AHDL - Schema Breeze Dark]
+[Highlighting AHDL - Schema Vladeeg Wal Dark]
 AHDL:Bit=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 AHDL:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 AHDL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -152,7 +152,7 @@ AHDL:Operator=5,,,,,,,,,,---
 AHDL:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 AHDL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting AMPLE - Schema Breeze Dark]
+[Highlighting AMPLE - Schema Vladeeg Wal Dark]
 AMPLE:Base Functions=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 AMPLE:CUI Functions=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 AMPLE:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -176,7 +176,7 @@ Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 
-[Highlighting ANS-Forth94 - Schema Breeze Dark]
+[Highlighting ANS-Forth94 - Schema Vladeeg Wal Dark]
 ANS-Forth94:Block Ext Keyword=1,,,1,,,,,,,---
 ANS-Forth94:Block Keyword=1,,,1,,,,,,,---
 ANS-Forth94:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -218,7 +218,7 @@ Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 
-[Highlighting ANSI C89 - Schema Breeze Dark]
+[Highlighting ANSI C89 - Schema Vladeeg Wal Dark]
 ANSI C89:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 ANSI C89:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 ANSI C89:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -239,13 +239,13 @@ Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 
-[Highlighting ASN.1 - Schema Breeze Dark]
+[Highlighting ASN.1 - Schema Vladeeg Wal Dark]
 ASN.1:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 ASN.1:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 ASN.1:Keyword=1,,,1,,,,,,,---
 ASN.1:Normal Text=0,,,,,,,,,,---
 
-[Highlighting ASP - Schema Breeze Dark]
+[Highlighting ASP - Schema Vladeeg Wal Dark]
 ASP:ASP Text=0,,,,,,,,,,---
 ASP:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 ASP:Control Structures=4,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -264,7 +264,7 @@ ASP:Other=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 ASP:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 ASP:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting AVR Assembler - Schema Breeze Dark]
+[Highlighting AVR Assembler - Schema Vladeeg Wal Dark]
 AVR Assembler:Binary=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 AVR Assembler:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 AVR Assembler:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -280,7 +280,7 @@ AVR Assembler:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 AVR Assembler:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 AVR Assembler:Symbol=0,,,,,,,,,,---
 
-[Highlighting AWK - Schema Breeze Dark]
+[Highlighting AWK - Schema Vladeeg Wal Dark]
 AWK:Builtin=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 AWK:CharClass=7,ff{color12.strip},ff{color7.strip},1,,,,,,,---
 AWK:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -307,7 +307,7 @@ Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 
-[Highlighting ActionScript 2.0 - Schema Breeze Dark]
+[Highlighting ActionScript 2.0 - Schema Vladeeg Wal Dark]
 ActionScript 2.0:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 ActionScript 2.0:Classes=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 ActionScript 2.0:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -497,7 +497,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Ada - Schema Breeze Dark]
+[Highlighting Ada - Schema Vladeeg Wal Dark]
 Ada:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Ada:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Ada:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -510,7 +510,7 @@ Ada:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{
 Ada:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Ada:Symbol=0,,,,,,,,,,---
 
-[Highlighting Adblock Plus - Schema Breeze Dark]
+[Highlighting Adblock Plus - Schema Vladeeg Wal Dark]
 Adblock Plus:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Adblock Plus:Element Hiding Rule=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Adblock Plus:Exception Rule=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
@@ -519,7 +519,7 @@ Adblock Plus:Header=1,,,1,,,,,,,---
 Adblock Plus:Normal Text=0,,,,,,,,,,---
 Adblock Plus:Special Comment=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Agda - Schema Breeze Dark]
+[Highlighting Agda - Schema Vladeeg Wal Dark]
 Agda:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Agda:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Agda:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -532,14 +532,14 @@ Agda:Special=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Agda:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Agda:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Alerts - Schema Breeze Dark]
+[Highlighting Alerts - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 
-[Highlighting Ansys - Schema Breeze Dark]
+[Highlighting Ansys - Schema Vladeeg Wal Dark]
 Ansys:APDLcmd=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Ansys:AUX12cmds=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Ansys:AUX15cmds=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -570,7 +570,7 @@ Ansys:error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 Ansys:parentesis_not_closed=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 Ansys:variable=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting Apache Configuration - Schema Breeze Dark]
+[Highlighting Apache Configuration - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -588,7 +588,7 @@ Apache Configuration:Normal Text=0,,,,,,,,,,---
 Apache Configuration:Other=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Apache Configuration:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting AppArmor Security Profile - Schema Breeze Dark]
+[Highlighting AppArmor Security Profile - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -646,7 +646,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting AsciiDoc - Schema Breeze Dark]
+[Highlighting AsciiDoc - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -680,7 +680,7 @@ AsciiDoc:Subscript=0,,,,,,1,,,,---
 AsciiDoc:Superscript=0,,,1,,,1,,,,---
 AsciiDoc:Verbatim=22,ff{color1.strip},ff{color9.strip},,,,,,,,---
 
-[Highlighting Asm6502 - Schema Breeze Dark]
+[Highlighting Asm6502 - Schema Vladeeg Wal Dark]
 Asm6502:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Asm6502:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Asm6502:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -691,7 +691,7 @@ Asm6502:Operator=5,,,,,,,,,,---
 Asm6502:Preprocessor=8,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Asm6502:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting AutoHotKey - Schema Breeze Dark]
+[Highlighting AutoHotKey - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -740,7 +740,7 @@ Doxygen:Verbatim=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Doxygen:Warning=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 Doxygen:Word=24,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting B-Method - Schema Breeze Dark]
+[Highlighting B-Method - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -753,7 +753,7 @@ B-Method:Normal Text=0,,,,,,,,,,---
 B-Method:OperationKeyword=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 B-Method:SectionKeyword=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Bash - Schema Breeze Dark]
+[Highlighting Bash - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -788,7 +788,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting BibTeX - Schema Breeze Dark]
+[Highlighting BibTeX - Schema Vladeeg Wal Dark]
 BibTeX:Command=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 BibTeX:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 BibTeX:Entry=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
@@ -799,7 +799,7 @@ BibTeX:Normal Text=0,,,,,,,,,,---
 BibTeX:Ref Key=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 BibTeX:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Bitbake - Schema Breeze Dark]
+[Highlighting Bitbake - Schema Vladeeg Wal Dark]
 Bitbake:BBFunction=29,ff{color4.strip},ff{color10.strip},,,,,,,,---
 Bitbake:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Bitbake:Dependency=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -811,7 +811,7 @@ Bitbake:OEFunction=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Bitbake:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Bitbake:Variable=29,ff{color1.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting Boo - Schema Breeze Dark]
+[Highlighting Boo - Schema Vladeeg Wal Dark]
 Boo:Builtin Function=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Boo:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Boo:Complex=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -832,7 +832,7 @@ Boo:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Boo:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Boo:String Substitution=0,,,,,,,,,,---
 
-[Highlighting BrightScript - Schema Breeze Dark]
+[Highlighting BrightScript - Schema Vladeeg Wal Dark]
 BrightScript:assign=5,,,,,,,,,,---
 BrightScript:binary=5,,,,,,,,,,---
 BrightScript:builtin_func=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
@@ -861,7 +861,7 @@ BrightScript:type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 BrightScript:unary=5,,,,,,,,,,---
 BrightScript:var=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting C - Schema Breeze Dark]
+[Highlighting C - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -908,7 +908,7 @@ Doxygen:Verbatim=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Doxygen:Warning=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 Doxygen:Word=24,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting C# - Schema Breeze Dark]
+[Highlighting C# - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -949,7 +949,7 @@ Doxygen:Verbatim=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Doxygen:Warning=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 Doxygen:Word=24,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting C++ - Schema Breeze Dark]
+[Highlighting C++ - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1031,7 +1031,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting CGiS - Schema Breeze Dark]
+[Highlighting CGiS - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1070,7 +1070,7 @@ Doxygen:Verbatim=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Doxygen:Warning=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 Doxygen:Word=24,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting CLIST - Schema Breeze Dark]
+[Highlighting CLIST - Schema Vladeeg Wal Dark]
 CLIST:Assignment=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 CLIST:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 CLIST:Control=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
@@ -1081,7 +1081,7 @@ CLIST:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 CLIST:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 CLIST:inputOutput=1,,,1,,,,,,,---
 
-[Highlighting CMake - Schema Breeze Dark]
+[Highlighting CMake - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1138,7 +1138,7 @@ reStructuredText:Role=1,,,1,,,,,,,---
 reStructuredText:SubstitutionDefinition=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 reStructuredText:SubstitutionReference=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting CSS - Schema Breeze Dark]
+[Highlighting CSS - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1170,7 +1170,7 @@ CSS:Value=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 CSS:Value Keyword=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 CSS:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting CSS/PHP - Schema Breeze Dark]
+[Highlighting CSS/PHP - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1397,7 +1397,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting CUE Sheet - Schema Breeze Dark]
+[Highlighting CUE Sheet - Schema Vladeeg Wal Dark]
 CUE Sheet:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 CUE Sheet:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 CUE Sheet:Flags=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -1407,7 +1407,7 @@ CUE Sheet:Mode=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 CUE Sheet:Normal Text=0,,,,,,,,,,---
 CUE Sheet:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting CartoCSS - Schema Breeze Dark]
+[Highlighting CartoCSS - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1425,7 +1425,7 @@ CartoCSS:Property=1,,,1,,,,,,,---
 CartoCSS:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 CartoCSS:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Cg - Schema Breeze Dark]
+[Highlighting Cg - Schema Vladeeg Wal Dark]
 Cg:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Cg:Binding=1,,,1,,,,,,,---
 Cg:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -1441,14 +1441,14 @@ Cg:StdFunction=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 Cg:Swizzle=0,,,1,,,,,,,---
 Cg:Symbol=0,,,,,,,,,,---
 
-[Highlighting ChangeLog - Schema Breeze Dark]
+[Highlighting ChangeLog - Schema Vladeeg Wal Dark]
 ChangeLog:Date=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 ChangeLog:E-Mail=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 ChangeLog:Entry=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 ChangeLog:Name=1,,,1,,,,,,,---
 ChangeLog:Normal Text=0,,,,,,,,,,---
 
-[Highlighting Chicken - Schema Breeze Dark]
+[Highlighting Chicken - Schema Vladeeg Wal Dark]
 Chicken:Brackets1=0,ff{color9.strip},ff{color0.strip},1,,,,,,,---
 Chicken:Brackets2=0,ff{color11.strip},ff{color0.strip},1,,,,,,,---
 Chicken:Brackets3=0,ff{color3.strip},ff{color0.strip},1,,,,,,,---
@@ -1467,7 +1467,7 @@ Chicken:Operator=1,ff{color1.strip},ff{color7.strip},1,,,,,,,---
 Chicken:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 Chicken:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Cisco - Schema Breeze Dark]
+[Highlighting Cisco - Schema Vladeeg Wal Dark]
 Cisco:Command=0,,,,,,,,,,---
 Cisco:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Cisco:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -1478,7 +1478,7 @@ Cisco:Parameter=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Cisco:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Cisco:Substitution=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting CleanCSS - Schema Breeze Dark]
+[Highlighting CleanCSS - Schema Vladeeg Wal Dark]
 CleanCSS:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 CleanCSS:Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 CleanCSS:Important=1,,,1,,,,,,,---
@@ -1493,7 +1493,7 @@ CleanCSS:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 CleanCSS:Unknown Property=1,,,1,1,,,,,,---
 CleanCSS:Value=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Clipper - Schema Breeze Dark]
+[Highlighting Clipper - Schema Vladeeg Wal Dark]
 Clipper:Command=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Clipper:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Clipper:Eval Block=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -1507,7 +1507,7 @@ Clipper:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Clipper:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Clipper:Symbol=0,,,,,,,,,,---
 
-[Highlighting Clojure - Schema Breeze Dark]
+[Highlighting Clojure - Schema Vladeeg Wal Dark]
 Clojure:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Clojure:BaseN=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Clojure:Brackets1=0,ff{color9.strip},ff{color11.strip},,,,,,,,---
@@ -1538,7 +1538,7 @@ Clojure:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Clojure:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Clojure:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting CoffeeScript - Schema Breeze Dark]
+[Highlighting CoffeeScript - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1627,7 +1627,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting ColdFusion - Schema Breeze Dark]
+[Highlighting ColdFusion - Schema Vladeeg Wal Dark]
 ColdFusion:Anchor Tags=0,ff{color2.strip},ff{color15.strip},,,,,,,,---
 ColdFusion:Attribute Values=0,ff{color12.strip},ff{color15.strip},,,,,,,,---
 ColdFusion:Brackets=0,ff{color4.strip},ff{color15.strip},1,,,,,,,---
@@ -1655,7 +1655,7 @@ ColdFusion:Style Values=0,ff{color9.strip},ff{color15.strip},,,,,,,,---
 ColdFusion:Table Tags=0,ff{color6.strip},ff{color15.strip},,,,,,,,---
 ColdFusion:Tags=0,ff{color4.strip},ff{color15.strip},,,,,,,,---
 
-[Highlighting Common Intermediate Language (CIL) - Schema Breeze Dark]
+[Highlighting Common Intermediate Language (CIL) - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1671,7 +1671,7 @@ Common Intermediate Language (CIL):Normal Text=0,,,,,,,,,,---
 Common Intermediate Language (CIL):Special Character=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Common Intermediate Language (CIL):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Common Lisp - Schema Breeze Dark]
+[Highlighting Common Lisp - Schema Vladeeg Wal Dark]
 Common Lisp:BaseN=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Common Lisp:Brackets=0,ff{color12.strip},ff{color10.strip},1,,,,,,,---
 Common Lisp:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -1689,7 +1689,7 @@ Common Lisp:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Common Lisp:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Common Lisp:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Component-Pascal - Schema Breeze Dark]
+[Highlighting Component-Pascal - Schema Vladeeg Wal Dark]
 Component-Pascal:Attribute=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Component-Pascal:Builtin=0,,,,,,,,,,---
 Component-Pascal:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -1709,7 +1709,7 @@ Component-Pascal:SpecialValues=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Component-Pascal:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Component-Pascal:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting ConTeXt - Schema Breeze Dark]
+[Highlighting ConTeXt - Schema Vladeeg Wal Dark]
 ConTeXt:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 ConTeXt:Block=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 ConTeXt:Brace=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -1721,7 +1721,7 @@ ConTeXt:Normal Text=0,,,,,,,,,,---
 ConTeXt:Section=1,,,1,,,,,,,---
 ConTeXt:Verbatim=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Crack - Schema Breeze Dark]
+[Highlighting Crack - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1764,7 +1764,7 @@ Doxygen:Verbatim=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Doxygen:Warning=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 Doxygen:Word=24,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting CubeScript - Schema Breeze Dark]
+[Highlighting CubeScript - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1793,7 +1793,7 @@ CubeScript:String5=12,ff{color13.strip},ff{color1.strip},1,,,,ff{color15.strip},
 CubeScript:String6=12,ff{color11.strip},ff{color1.strip},1,,,,ff{color15.strip},ff{color0.strip},,---
 CubeScript:String7=12,ff{color15.strip},ff{color1.strip},1,,,,ff{color8.strip},ff{color0.strip},,---
 
-[Highlighting Curry - Schema Breeze Dark]
+[Highlighting Curry - Schema Vladeeg Wal Dark]
 Curry:Braces=0,,,,,,,,,,---
 Curry:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Curry:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -1818,7 +1818,7 @@ Curry:String Escape=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Curry:Syntax Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 Curry:Type, Constructor=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting D - Schema Breeze Dark]
+[Highlighting D - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1868,7 +1868,7 @@ D:UserKeywords=16,ff{color12.strip},ff{color11.strip},,1,,,,,,---
 D:Version=1,ff{color3.strip},ff{color7.strip},1,,,,,,,---
 D:Version Type=0,,,1,,,,,,,---
 
-[Highlighting DTD - Schema Breeze Dark]
+[Highlighting DTD - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -1887,7 +1887,7 @@ DTD:Processing Instruction=1,,,1,,,,,,,---
 DTD:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 DTD:Symbol=19,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 
-[Highlighting Debian Changelog - Schema Breeze Dark]
+[Highlighting Debian Changelog - Schema Vladeeg Wal Dark]
 Debian Changelog:Bug=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Debian Changelog:Data=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Debian Changelog:Email=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -1895,7 +1895,7 @@ Debian Changelog:Keyword=1,,,1,,,,,,,---
 Debian Changelog:Normal Text=0,,,,,,,,,,---
 Debian Changelog:Version=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Debian Control - Schema Breeze Dark]
+[Highlighting Debian Control - Schema Vladeeg Wal Dark]
 Debian Control:Email=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Debian Control:Keyword=1,,,1,,,,,,,---
 Debian Control:Normal Text=0,,,,,,,,,,---
@@ -1903,7 +1903,7 @@ Debian Control:Value=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Debian Control:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Debian Control:Version=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Diff - Schema Breeze Dark]
+[Highlighting Diff - Schema Vladeeg Wal Dark]
 Diff:Added line=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Diff:Changed line (new)=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Diff:Changed line (old)=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
@@ -1912,7 +1912,7 @@ Diff:Header=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Diff:Normal Text=0,,,,,,,,,,---
 Diff:Removed line=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Django HTML Template - Schema Breeze Dark]
+[Highlighting Django HTML Template - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2017,7 +2017,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Dockerfile - Schema Breeze Dark]
+[Highlighting Dockerfile - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2029,7 +2029,7 @@ Dockerfile:Normal=0,,,,,,,,,,---
 Dockerfile:Operator=5,,,,,,,,,,---
 Dockerfile:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Doxyfile - Schema Breeze Dark]
+[Highlighting Doxyfile - Schema Vladeeg Wal Dark]
 Doxyfile:Assignment=5,,,,,,,,,,---
 Doxyfile:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Doxyfile:Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
@@ -2041,7 +2041,7 @@ Doxyfile:UntypedValue=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Doxyfile:ValueNo=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Doxyfile:ValueYes=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting Doxygen - Schema Breeze Dark]
+[Highlighting Doxygen - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2069,7 +2069,7 @@ Doxygen:Verbatim=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Doxygen:Warning=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 Doxygen:Word=24,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting DoxygenLua - Schema Breeze Dark]
+[Highlighting DoxygenLua - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2097,7 +2097,7 @@ DoxygenLua:Verbatim=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 DoxygenLua:Warning=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 DoxygenLua:Word=24,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting E Language - Schema Breeze Dark]
+[Highlighting E Language - Schema Vladeeg Wal Dark]
 E Language:Action=7,ff{color12.strip},ff{color7.strip},1,,,,,,,---
 E Language:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 E Language:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -2110,7 +2110,7 @@ E Language:OutSide E code=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 E Language:Statement=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 E Language:Vector=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Eiffel - Schema Breeze Dark]
+[Highlighting Eiffel - Schema Vladeeg Wal Dark]
 Eiffel:Assertions=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Eiffel:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Eiffel:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -2121,7 +2121,7 @@ Eiffel:Normal Text=0,,,,,,,,,,---
 Eiffel:Predefined entities=20,ff{color14.strip},ff{color14.strip},1,,,,,,,---
 Eiffel:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Elixir - Schema Breeze Dark]
+[Highlighting Elixir - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2614,7 +2614,7 @@ reStructuredText:Role=1,,,1,,,,,,,---
 reStructuredText:SubstitutionDefinition=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 reStructuredText:SubstitutionReference=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Elm - Schema Breeze Dark]
+[Highlighting Elm - Schema Vladeeg Wal Dark]
 Elm:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Elm:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Elm:ControlFlowKeyword=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
@@ -2630,7 +2630,7 @@ Elm:Port=0,,,,,,,,,,---
 Elm:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Elm:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Email - Schema Breeze Dark]
+[Highlighting Email - Schema Vladeeg Wal Dark]
 Email:Address=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Email:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Email:Common Header=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
@@ -2639,7 +2639,7 @@ Email:Normal Text=0,,,,,,,,,,---
 Email:Other Header=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Email:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Erlang - Schema Breeze Dark]
+[Highlighting Erlang - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2659,7 +2659,7 @@ Erlang:Separator=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Erlang:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Erlang:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Euphoria - Schema Breeze Dark]
+[Highlighting Euphoria - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2683,7 +2683,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting FASTQ - Schema Breeze Dark]
+[Highlighting FASTQ - Schema Vladeeg Wal Dark]
 FASTQ:Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 FASTQ:Qual=14,ff{color9.strip},ff{color9.strip},,,,,,,,---
 FASTQ:QualHeader=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -2694,7 +2694,7 @@ FASTQ:SeqHeader=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 FASTQ:SeqHeaderStart=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 FASTQ:SeqStart=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 
-[Highlighting FSharp - Schema Breeze Dark]
+[Highlighting FSharp - Schema Vladeeg Wal Dark]
 FSharp:Binary=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 FSharp:Camlp4 Quotation=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 FSharp:Character=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -2715,7 +2715,7 @@ FSharp:Region Marker=1,,,1,,,,,,,---
 FSharp:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 FSharp:Symbol=0,,,,,,,,,,---
 
-[Highlighting FTL - Schema Breeze Dark]
+[Highlighting FTL - Schema Vladeeg Wal Dark]
 FTL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 FTL:FTLComment=22,ff{color1.strip},ff{color9.strip},,1,,,,,,---
 FTL:FTLIdentifier=29,ff{color4.strip},ff{color10.strip},,,,,,,,---
@@ -2727,7 +2727,7 @@ FTL:Keyword=1,,,1,,,,,,,---
 FTL:NormalText=0,,,,,,,,,,---
 FTL:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Fish - Schema Breeze Dark]
+[Highlighting Fish - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2765,7 +2765,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting FlatBuffers - Schema Breeze Dark]
+[Highlighting FlatBuffers - Schema Vladeeg Wal Dark]
 FlatBuffers:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 FlatBuffers:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 FlatBuffers:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -2775,7 +2775,7 @@ FlatBuffers:Keyword=1,,,1,,,,,,,---
 FlatBuffers:Normal Text=0,,,,,,,,,,---
 FlatBuffers:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Fortran (Fixed Format) - Schema Breeze Dark]
+[Highlighting Fortran (Fixed Format) - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2807,7 +2807,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Fortran (Free Format) - Schema Breeze Dark]
+[Highlighting Fortran (Free Format) - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2849,7 +2849,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting FreeBASIC - Schema Breeze Dark]
+[Highlighting FreeBASIC - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2874,7 +2874,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting G-Code - Schema Breeze Dark]
+[Highlighting G-Code - Schema Vladeeg Wal Dark]
 G-Code:Alert=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 G-Code:Brackets=0,,,,,,,,,,---
 G-Code:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -2896,7 +2896,7 @@ G-Code:Param (local)=3,ff{color12.strip},ff{color14.strip},,,,,,,,---
 G-Code:Sub-program=1,ff{color5.strip},ff{color7.strip},,,,,,,,---
 G-Code:Tool=0,ff{color4.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting GAP - Schema Breeze Dark]
+[Highlighting GAP - Schema Vladeeg Wal Dark]
 GAP:Builtin Functions=6,ff{color7.strip},ff{color7.strip},1,1,,,,,,---
 GAP:Commentary=21,ff{color8.strip},ff{color7.strip},,1,,,,,,---
 GAP:Control Statements=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
@@ -2912,7 +2912,7 @@ GAP:Operator2=5,,,1,,,,,,,---
 GAP:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 GAP:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting GCCExtensions - Schema Breeze Dark]
+[Highlighting GCCExtensions - Schema Vladeeg Wal Dark]
 GCCExtensions:Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 GCCExtensions:GNU Extensions=7,ff{color12.strip},ff{color7.strip},1,1,,,,,,---
 GCCExtensions:GNU Functions=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -2921,7 +2921,7 @@ GCCExtensions:GNU Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 GCCExtensions:Normal Text=0,,,,,,,,,,---
 GCCExtensions:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting GDB - Schema Breeze Dark]
+[Highlighting GDB - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -2971,7 +2971,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting GDB Backtrace - Schema Breeze Dark]
+[Highlighting GDB Backtrace - Schema Vladeeg Wal Dark]
 GDB Backtrace:Crash=30,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 GDB Backtrace:File=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 GDB Backtrace:Function=2,ff{color5.strip},ff{color7.strip},1,,,,,,,---
@@ -2979,7 +2979,7 @@ GDB Backtrace:Normal=0,,,,,,,,,,---
 GDB Backtrace:QualifiedIdentifier=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 GDB Backtrace:Thread=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting GDB Init - Schema Breeze Dark]
+[Highlighting GDB Init - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3030,7 +3030,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting GDL - Schema Breeze Dark]
+[Highlighting GDL - Schema Vladeeg Wal Dark]
 GDL:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 GDL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 GDL:Datatype=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -3041,7 +3041,7 @@ GDL:Normal=0,,,,,,,,,,---
 GDL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 GDL:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting GLSL - Schema Breeze Dark]
+[Highlighting GLSL - Schema Vladeeg Wal Dark]
 GLSL:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 GLSL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 GLSL:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -3058,7 +3058,7 @@ GLSL:StdVariable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 GLSL:Symbol=0,,,,,,,,,,---
 GLSL:Type Qualifier=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting GNU Assembler - Schema Breeze Dark]
+[Highlighting GNU Assembler - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3079,7 +3079,7 @@ GNU Assembler:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 GNU Assembler:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 GNU Assembler:Symbol=0,,,,,,,,,,---
 
-[Highlighting GNU Gettext - Schema Breeze Dark]
+[Highlighting GNU Gettext - Schema Vladeeg Wal Dark]
 GNU Gettext:Automatic Comment=21,ff{color12.strip},ff{color7.strip},,,,,,,,---
 GNU Gettext:Char=10,ff{color13.strip},ff{color6.strip},,,,,,,,---
 GNU Gettext:CharPrevious=10,ff{color2.strip},ff{color6.strip},,1,,,,,,---
@@ -3111,7 +3111,7 @@ GNU Gettext:StringTag=12,ff{color1.strip},ff{color1.strip},1,,,,,,,---
 GNU Gettext:StringTagPrevious=12,ff{color6.strip},ff{color1.strip},1,1,,,,,,---
 GNU Gettext:Translator Comment=21,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting GNU Linker Script - Schema Breeze Dark]
+[Highlighting GNU Linker Script - Schema Vladeeg Wal Dark]
 GNU Linker Script:Command=1,,,1,,,,,,,---
 GNU Linker Script:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 GNU Linker Script:Function=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -3121,7 +3121,7 @@ GNU Linker Script:Number=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 GNU Linker Script:Section Name=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 GNU Linker Script:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting GNU M4 - Schema Breeze Dark]
+[Highlighting GNU M4 - Schema Vladeeg Wal Dark]
 GNU M4:Builtins=1,,,1,,,,,,,---
 GNU M4:Builtins (prefixed with m4_)=1,,,1,,,,,,,---
 GNU M4:Commas=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -3133,13 +3133,13 @@ GNU M4:Optional builtins=1,,,1,,,,,,,---
 GNU M4:Optional builtins (prefixed with m4_)=1,,,1,,,,,,,---
 GNU M4:Special arguments to macros=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Git Ignore - Schema Breeze Dark]
+[Highlighting Git Ignore - Schema Vladeeg Wal Dark]
 Git Ignore:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Git Ignore:Exclude=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Git Ignore:Include=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Git Ignore:Normal Text=0,,,,,,,,,,---
 
-[Highlighting Git Rebase - Schema Breeze Dark]
+[Highlighting Git Rebase - Schema Vladeeg Wal Dark]
 Git Rebase:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Git Rebase:Commit=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Git Rebase:Edit=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -3151,14 +3151,14 @@ Git Rebase:Reword=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Git Rebase:Squash=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Git Rebase:Summary=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Gitolite - Schema Breeze Dark]
+[Highlighting Gitolite - Schema Vladeeg Wal Dark]
 Gitolite:Comment (Single)=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Gitolite:Group=1,,,1,,,,,,,---
 Gitolite:Keyword=1,,,1,,,,,,,---
 Gitolite:Normal Text=0,,,,,,,,,,---
 Gitolite:Symbol=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting GlossTex - Schema Breeze Dark]
+[Highlighting GlossTex - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3291,7 +3291,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Gnuplot - Schema Breeze Dark]
+[Highlighting Gnuplot - Schema Vladeeg Wal Dark]
 Gnuplot:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Gnuplot:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Gnuplot:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -3301,7 +3301,7 @@ Gnuplot:Keyword=1,,,1,,,,,,,---
 Gnuplot:Normal Text=0,,,,,,,,,,---
 Gnuplot:String=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Go - Schema Breeze Dark]
+[Highlighting Go - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3322,7 +3322,7 @@ Go:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Go:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Go:Symbol=0,,,,,,,,,,---
 
-[Highlighting Groovy - Schema Breeze Dark]
+[Highlighting Groovy - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3510,7 +3510,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting HTML - Schema Breeze Dark]
+[Highlighting HTML - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3674,7 +3674,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Haml - Schema Breeze Dark]
+[Highlighting Haml - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3728,7 +3728,7 @@ Haml:Symbol=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Haml:Tag=1,,,1,,,,,,,---
 Haml:Unquoted String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Hamlet - Schema Breeze Dark]
+[Highlighting Hamlet - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3827,7 +3827,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Haskell - Schema Breeze Dark]
+[Highlighting Haskell - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3926,7 +3926,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Haxe - Schema Breeze Dark]
+[Highlighting Haxe - Schema Vladeeg Wal Dark]
 Haxe:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Haxe:EscapeSequence=12,ff{color14.strip},ff{color9.strip},,,,,,,,---
 Haxe:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -3941,7 +3941,7 @@ Haxe:RawString=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Haxe:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Haxe:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Hunspell Affix File - Schema Breeze Dark]
+[Highlighting Hunspell Affix File - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3960,7 +3960,7 @@ Hunspell Affix File:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Hunspell Affix File:Stripping=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Hunspell Affix File:Undefined=0,,,,,,,,,,---
 
-[Highlighting Hunspell Dictionary File - Schema Breeze Dark]
+[Highlighting Hunspell Dictionary File - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -3974,7 +3974,7 @@ Hunspell Dictionary File:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,--
 Hunspell Dictionary File:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Hunspell Dictionary File:Undefined=0,,,,,,,,,,---
 
-[Highlighting Hunspell Thesaurus File - Schema Breeze Dark]
+[Highlighting Hunspell Thesaurus File - Schema Vladeeg Wal Dark]
 Hunspell Thesaurus File:Encoding=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Hunspell Thesaurus File:Entry=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Hunspell Thesaurus File:Hint=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -3983,14 +3983,14 @@ Hunspell Thesaurus File:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Hunspell Thesaurus File:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Hunspell Thesaurus File:Undefined=0,,,,,,,,,,---
 
-[Highlighting Hunspell Thesaurus Index File - Schema Breeze Dark]
+[Highlighting Hunspell Thesaurus Index File - Schema Vladeeg Wal Dark]
 Hunspell Thesaurus Index File:Encoding=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Hunspell Thesaurus Index File:Entry=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Hunspell Thesaurus Index File:Keyword=1,,,1,,,,,,,---
 Hunspell Thesaurus Index File:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Hunspell Thesaurus Index File:Undefined=0,,,,,,,,,,---
 
-[Highlighting IDL - Schema Breeze Dark]
+[Highlighting IDL - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4031,7 +4031,7 @@ IDL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 IDL:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 IDL:Symbol=0,,,,,,,,,,---
 
-[Highlighting ILERPG - Schema Breeze Dark]
+[Highlighting ILERPG - Schema Vladeeg Wal Dark]
 ILERPG:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 ILERPG:Biff=1,,,1,,,,,,,---
 ILERPG:BoldComment=0,ff{color11.strip},ff{color7.strip},1,1,,,,,,---
@@ -4048,7 +4048,7 @@ ILERPG:Keyword=1,,,1,,,,,,,---
 ILERPG:Normal Text=0,,,,,,,,,,---
 ILERPG:Reserved=0,ff{color1.strip},ff{color0.strip},,,,,,,,---
 
-[Highlighting INI Files - Schema Breeze Dark]
+[Highlighting INI Files - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4063,7 +4063,7 @@ INI Files:Normal Text=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 INI Files:Section=1,,,1,,,,,,,---
 INI Files:Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting ISO C++ - Schema Breeze Dark]
+[Highlighting ISO C++ - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4140,7 +4140,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Inform - Schema Breeze Dark]
+[Highlighting Inform - Schema Vladeeg Wal Dark]
 Inform:Actions=16,ff{color9.strip},ff{color0.strip},,,,,,,,---
 Inform:Comment=21,ff{color8.strip},ff{color15.strip},,1,,,,,,---
 Inform:Function=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -4155,7 +4155,7 @@ Inform:String=12,ff{color2.strip},ff{color2.strip},,,,,,,,---
 Inform:Values=18,ff{color5.strip},ff{color0.strip},1,,,,,,,---
 Inform:Word=12,ff{color2.strip},ff{color2.strip},,1,,,,,,---
 
-[Highlighting Intel HEX - Schema Breeze Dark]
+[Highlighting Intel HEX - Schema Vladeeg Wal Dark]
 Intel HEX:Address=20,ff{color14.strip},ff{color14.strip},1,,,,,,,---
 Intel HEX:Bytecount=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 Intel HEX:Checksum=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4164,7 +4164,7 @@ Intel HEX:Malformed=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip}
 Intel HEX:RecordType=23,ff{color8.strip},ff{color10.strip},,,,,,,,---
 Intel HEX:Startcode=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Intel x86 (FASM) - Schema Breeze Dark]
+[Highlighting Intel x86 (FASM) - Schema Vladeeg Wal Dark]
 Intel x86 (FASM):BaseN=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Intel x86 (FASM):Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Intel x86 (FASM):Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -4178,7 +4178,7 @@ Intel x86 (FASM):Preprocessor=8,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Intel x86 (FASM):Registers=1,,,1,,,,,,,---
 Intel x86 (FASM):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Intel x86 (NASM) - Schema Breeze Dark]
+[Highlighting Intel x86 (NASM) - Schema Vladeeg Wal Dark]
 Intel x86 (NASM):BaseN=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Intel x86 (NASM):Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Intel x86 (NASM):Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -4193,7 +4193,7 @@ Intel x86 (NASM):Preprocessor=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Intel x86 (NASM):Registers=1,,,1,,,,,,,---
 Intel x86 (NASM):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting J - Schema Breeze Dark]
+[Highlighting J - Schema Vladeeg Wal Dark]
 J:Adverb=1,,,1,,,,,,,---
 J:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 J:Conjunction=1,,,1,,,,,,,---
@@ -4209,7 +4209,7 @@ J:Sentence=0,,,,,,,,,,---
 J:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 J:Verb=1,,,1,,,,,,,---
 
-[Highlighting JCL - Schema Breeze Dark]
+[Highlighting JCL - Schema Vladeeg Wal Dark]
 JCL:Built In=1,,,1,,,,,,,---
 JCL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 JCL:Control Flow=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
@@ -4225,7 +4225,7 @@ JCL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 JCL:Symbol=5,,,,,,,,,,---
 JCL:Variable=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 
-[Highlighting JSON - Schema Breeze Dark]
+[Highlighting JSON - Schema Vladeeg Wal Dark]
 JSON:Style_Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 JSON:Style_Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 JSON:Style_Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -4238,7 +4238,7 @@ JSON:Style_String_Key_Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 JSON:Style_String_Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 JSON:Style_String_Value_Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting JSP - Schema Breeze Dark]
+[Highlighting JSP - Schema Vladeeg Wal Dark]
 JSP:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 JSP:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 JSP:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -4260,7 +4260,7 @@ JSP:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 JSP:Symbol=0,,,,,,,,,,---
 JSP:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Jam - Schema Breeze Dark]
+[Highlighting Jam - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4314,7 +4314,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Java - Schema Breeze Dark]
+[Highlighting Java - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4504,7 +4504,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting JavaScript - Schema Breeze Dark]
+[Highlighting JavaScript - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4566,7 +4566,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting JavaScript React - Schema Breeze Dark]
+[Highlighting JavaScript React - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4646,7 +4646,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting JavaScript React/PHP - Schema Breeze Dark]
+[Highlighting JavaScript React/PHP - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -4892,7 +4892,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting JavaScript/PHP - Schema Breeze Dark]
+[Highlighting JavaScript/PHP - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -5120,7 +5120,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Javadoc - Schema Breeze Dark]
+[Highlighting Javadoc - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -5291,7 +5291,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Jira - Schema Breeze Dark]
+[Highlighting Jira - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -5805,7 +5805,7 @@ XML:PEntityRef=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 XML:Processing Instruction=1,,,1,,,,,,,---
 XML:Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Julia - Schema Breeze Dark]
+[Highlighting Julia - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -5842,7 +5842,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting KBasic - Schema Breeze Dark]
+[Highlighting KBasic - Schema Vladeeg Wal Dark]
 KBasic:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 KBasic:Identifier=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 KBasic:Keyword=1,,,1,,,,,,,---
@@ -5850,7 +5850,7 @@ KBasic:Normal Text=0,,,,,,,,,,---
 KBasic:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 KBasic:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting KDev-PG\x5b-Qt\x5d Grammar - Schema Breeze Dark]
+[Highlighting KDev-PG\x5b-Qt\x5d Grammar - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -5948,7 +5948,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Kconfig - Schema Breeze Dark]
+[Highlighting Kconfig - Schema Vladeeg Wal Dark]
 Kconfig:badChar=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Kconfig:badOptionEq=0,,,,1,,,,,,---
 Kconfig:badQuotedOptionValue=12,ff{color1.strip},ff{color1.strip},,1,,,,,,---
@@ -5980,7 +5980,7 @@ Kconfig:unquotedOptionValue=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Kconfig:unquotedPrompt=0,,,,,,,,,,---
 Kconfig:unquotedSourceString=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Kotlin - Schema Breeze Dark]
+[Highlighting Kotlin - Schema Vladeeg Wal Dark]
 Kotlin:Annotation=9,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Kotlin:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Kotlin:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -5998,7 +5998,7 @@ Kotlin:Symbol=0,,,,,,,,,,---
 Kotlin:TODO=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Kotlin:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting LDIF - Schema Breeze Dark]
+[Highlighting LDIF - Schema Vladeeg Wal Dark]
 LDIF:AttributeType=1,ff{color8.strip},ff{color15.strip},1,,,,,,,---
 LDIF:Comment=21,ff{color7.strip},ff{color7.strip},,,,,,,,---
 LDIF:Description Keyword=1,ff{color0.strip},ff{color15.strip},1,,,,,,,---
@@ -6009,7 +6009,7 @@ LDIF:Value (Keyword)=12,ff{color2.strip},ff{color13.strip},1,,,,,,,---
 LDIF:Value (Standard)=12,ff{color2.strip},ff{color2.strip},,,,,,,,---
 LDIF:Value (URL)=12,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting LESSCSS - Schema Breeze Dark]
+[Highlighting LESSCSS - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6032,7 +6032,7 @@ LESSCSS:Unknown Property=0,,,,1,,,,,,---
 LESSCSS:Value=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 LESSCSS:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting LPC - Schema Breeze Dark]
+[Highlighting LPC - Schema Vladeeg Wal Dark]
 LPC:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 LPC:Binary=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 LPC:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -6052,7 +6052,7 @@ LPC:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{
 LPC:Single-Line comments=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 LPC:Strings=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting LSL - Schema Breeze Dark]
+[Highlighting LSL - Schema Vladeeg Wal Dark]
 LSL:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 LSL:Brace=0,,,,,,,,,,---
 LSL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -6070,7 +6070,7 @@ LSL:Normal Text=0,,,,,,,,,,---
 LSL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 LSL:Symbol=0,,,,,,,,,,---
 
-[Highlighting LaTeX - Schema Breeze Dark]
+[Highlighting LaTeX - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6197,7 +6197,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Lex/Flex - Schema Breeze Dark]
+[Highlighting Lex/Flex - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6287,7 +6287,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting LilyPond - Schema Breeze Dark]
+[Highlighting LilyPond - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6331,7 +6331,7 @@ LilyPond:Tremolo=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 LilyPond:User Command=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 LilyPond:Variable=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Literate Curry - Schema Breeze Dark]
+[Highlighting Literate Curry - Schema Vladeeg Wal Dark]
 Curry:Braces=0,,,,,,,,,,---
 Curry:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Curry:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -6359,7 +6359,7 @@ Literate Curry:BirdTrack=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Literate Curry:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Literate Curry:Text=0,,,,,,,,,,---
 
-[Highlighting Literate Haskell - Schema Breeze Dark]
+[Highlighting Literate Haskell - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6461,7 +6461,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Logcat - Schema Breeze Dark]
+[Highlighting Logcat - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6494,7 +6494,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Logtalk - Schema Breeze Dark]
+[Highlighting Logtalk - Schema Vladeeg Wal Dark]
 Logtalk:Built-in=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Logtalk:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Logtalk:Directive=1,,,1,,,,,,,---
@@ -6504,7 +6504,7 @@ Logtalk:Operator=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Logtalk:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Logtalk:Variable=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting Lua - Schema Breeze Dark]
+[Highlighting Lua - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6548,7 +6548,7 @@ Lua:Strings=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Lua:Symbols=5,,,,,,,,,,---
 Lua:Variable=1,ff{color12.strip},ff{color15.strip},,,,,,,,---
 
-[Highlighting M3U - Schema Breeze Dark]
+[Highlighting M3U - Schema Vladeeg Wal Dark]
 M3U:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 M3U:Descr=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 M3U:EXTINF=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -6556,7 +6556,7 @@ M3U:Lenght=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 M3U:M3USpec=1,,,1,,,,,,,---
 M3U:Normal Text=0,,,,,,,,,,---
 
-[Highlighting MAB-DB - Schema Breeze Dark]
+[Highlighting MAB-DB - Schema Vladeeg Wal Dark]
 MAB-DB:Comment=21,ff{color7.strip},ff{color15.strip},1,1,,,,,,---
 MAB-DB:Database Header=1,ff{color9.strip},ff{color15.strip},1,,,,,,,---
 MAB-DB:Header Medium=1,ff{color10.strip},ff{color15.strip},1,,,,,,,---
@@ -6567,7 +6567,7 @@ MAB-DB:Mab I Field=1,ff{color5.strip},ff{color15.strip},1,,,,,,,---
 MAB-DB:Mab M Field=1,ff{color4.strip},ff{color15.strip},1,,,,,,,---
 MAB-DB:Normal Text=0,ff{color9.strip},ff{color15.strip},1,,,,,,,---
 
-[Highlighting MEL - Schema Breeze Dark]
+[Highlighting MEL - Schema Vladeeg Wal Dark]
 MEL:Block comments=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 MEL:Data types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 MEL:Expressions=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -6581,7 +6581,7 @@ MEL:Operators=0,,,,,,,,,,---
 MEL:Strings=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 MEL:Variable names=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting MIB - Schema Breeze Dark]
+[Highlighting MIB - Schema Vladeeg Wal Dark]
 MIB:Accesstype=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 MIB:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 MIB:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -6592,7 +6592,7 @@ MIB:Status=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 MIB:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 MIB:Syntax=15,ff{color10.strip},ff{color10.strip},,1,,,,,,---
 
-[Highlighting MIPS Assembler - Schema Breeze Dark]
+[Highlighting MIPS Assembler - Schema Vladeeg Wal Dark]
 MIPS Assembler:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 MIPS Assembler:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 MIPS Assembler:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -6611,7 +6611,7 @@ MIPS Assembler:Section=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 MIPS Assembler:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 MIPS Assembler:Type=1,,,1,,,,,,,---
 
-[Highlighting MS-DOS Batch - Schema Breeze Dark]
+[Highlighting MS-DOS Batch - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6633,7 +6633,7 @@ MS-DOS Batch:Redirection=1,,,1,,,,,,,---
 MS-DOS Batch:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 MS-DOS Batch:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Magma - Schema Breeze Dark]
+[Highlighting Magma - Schema Vladeeg Wal Dark]
 Magma:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Magma:Directive=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Magma:Keyword=1,,,1,,,,,,,---
@@ -6642,7 +6642,7 @@ Magma:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Magma:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Magma:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Makefile - Schema Breeze Dark]
+[Highlighting Makefile - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6678,7 +6678,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Mako - Schema Breeze Dark]
+[Highlighting Mako - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -6881,7 +6881,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Markdown - Schema Breeze Dark]
+[Highlighting Markdown - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -7347,7 +7347,7 @@ reStructuredText:Role=1,,,1,,,,,,,---
 reStructuredText:SubstitutionDefinition=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 reStructuredText:SubstitutionReference=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Mason - Schema Breeze Dark]
+[Highlighting Mason - Schema Vladeeg Wal Dark]
 Mason:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Mason:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Mason:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -7364,7 +7364,7 @@ Mason:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Mason:Symbol=0,,,,,,,,,,---
 Mason:normal=0,,,,,,,,,,---
 
-[Highlighting Mathematica - Schema Breeze Dark]
+[Highlighting Mathematica - Schema Vladeeg Wal Dark]
 Mathematica:Assign=0,ff{color6.strip},ff{color7.strip},,,,,,,,---
 Mathematica:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Mathematica:Int=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -7374,7 +7374,7 @@ Mathematica:Parameter=16,ff{color12.strip},ff{color11.strip},,1,,,,,,---
 Mathematica:Replace=0,ff{color10.strip},ff{color7.strip},,,,,,,,---
 Mathematica:function=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Matlab - Schema Breeze Dark]
+[Highlighting Matlab - Schema Vladeeg Wal Dark]
 Matlab:Comment=21,ff{color10.strip},ff{color7.strip},,,,,,,,---
 Matlab:Delimiter=0,,,,,,,,,,---
 Matlab:Incomplete String=10,ff{color5.strip},ff{color6.strip},,,,,,,,---
@@ -7386,7 +7386,7 @@ Matlab:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Matlab:System=18,ff{color3.strip},ff{color11.strip},,,,,,,,---
 Matlab:Variable=0,,,,,,,,,,---
 
-[Highlighting Maxima - Schema Breeze Dark]
+[Highlighting Maxima - Schema Vladeeg Wal Dark]
 Maxima:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Maxima:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Maxima:Function=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -7399,7 +7399,7 @@ Maxima:Special=14,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 Maxima:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Maxima:Variable=3,ff{color14.strip},ff{color14.strip},,1,,,,,,---
 
-[Highlighting MediaWiki - Schema Breeze Dark]
+[Highlighting MediaWiki - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -7498,7 +7498,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Meson - Schema Breeze Dark]
+[Highlighting Meson - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -7522,7 +7522,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Metamath - Schema Breeze Dark]
+[Highlighting Metamath - Schema Vladeeg Wal Dark]
 Metamath:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Metamath:CompressedProof=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Metamath:Constant=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -7533,7 +7533,7 @@ Metamath:Normal=0,,,,,,,,,,---
 Metamath:ReferenceLabel=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 Metamath:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Metapost/Metafont - Schema Breeze Dark]
+[Highlighting Metapost/Metafont - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -7564,7 +7564,7 @@ Metapost/Metafont:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Metapost/Metafont:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Metapost/Metafont:Verbatim=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 
-[Highlighting Modelica - Schema Breeze Dark]
+[Highlighting Modelica - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -7584,7 +7584,7 @@ Modelica:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelica:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Modelica:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Modelines - Schema Breeze Dark]
+[Highlighting Modelines - Schema Vladeeg Wal Dark]
 Modelines:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Modelines:Keyword=23,ff{color8.strip},ff{color10.strip},,,,,,,,---
 Modelines:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -7594,7 +7594,7 @@ Modelines:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modelines:Value=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Modelines:Variable=24,ff{color7.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Modula-2 (ISO only) - Schema Breeze Dark]
+[Highlighting Modula-2 (ISO only) - Schema Vladeeg Wal Dark]
 Modula-2 (ISO only):Builtin=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 Modula-2 (ISO only):Comment=21,ff{color8.strip},ff{color7.strip},,1,,,,,,---
 Modula-2 (ISO only):Const=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
@@ -7608,7 +7608,7 @@ Modula-2 (ISO only):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modula-2 (ISO only):Type=16,ff{color12.strip},ff{color11.strip},1,,,,,,,---
 Modula-2 (ISO only):Unsafe=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 
-[Highlighting Modula-2 (PIM only) - Schema Breeze Dark]
+[Highlighting Modula-2 (PIM only) - Schema Vladeeg Wal Dark]
 Modula-2 (PIM only):Builtin=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 Modula-2 (PIM only):Comment=21,ff{color8.strip},ff{color7.strip},,1,,,,,,---
 Modula-2 (PIM only):Const=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
@@ -7622,7 +7622,7 @@ Modula-2 (PIM only):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modula-2 (PIM only):Type=16,ff{color12.strip},ff{color11.strip},1,,,,,,,---
 Modula-2 (PIM only):Unsafe=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 
-[Highlighting Modula-2 (R10 only) - Schema Breeze Dark]
+[Highlighting Modula-2 (R10 only) - Schema Vladeeg Wal Dark]
 Modula-2 (R10 only):Builtin=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 Modula-2 (R10 only):Comment=21,ff{color8.strip},ff{color7.strip},,1,,,,,,---
 Modula-2 (R10 only):Const=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
@@ -7636,7 +7636,7 @@ Modula-2 (R10 only):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modula-2 (R10 only):Type=16,ff{color12.strip},ff{color11.strip},1,,,,,,,---
 Modula-2 (R10 only):Unsafe=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 
-[Highlighting Modula-2 - Schema Breeze Dark]
+[Highlighting Modula-2 - Schema Vladeeg Wal Dark]
 Modula-2:Builtin=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
 Modula-2:Comment=21,ff{color8.strip},ff{color7.strip},,1,,,,,,---
 Modula-2:Const=6,ff{color7.strip},ff{color7.strip},1,,,,,,,---
@@ -7650,7 +7650,7 @@ Modula-2:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Modula-2:Type=16,ff{color12.strip},ff{color11.strip},1,,,,,,,---
 Modula-2:Unsafe=27,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 
-[Highlighting MonoBasic - Schema Breeze Dark]
+[Highlighting MonoBasic - Schema Vladeeg Wal Dark]
 MonoBasic:Comment=21,ff{color2.strip},ff{color7.strip},,,,,,,,---
 MonoBasic:Keyword=1,ff{color4.strip},ff{color7.strip},,,,,,,,---
 MonoBasic:Normal Text=0,,,,,,,,,,---
@@ -7659,7 +7659,7 @@ MonoBasic:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 MonoBasic:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 MonoBasic:Type=16,ff{color4.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Motorola 68k (VASM/Devpac) - Schema Breeze Dark]
+[Highlighting Motorola 68k (VASM/Devpac) - Schema Vladeeg Wal Dark]
 Motorola 68k (VASM/Devpac):Address Registers=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Motorola 68k (VASM/Devpac):BaseN=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Motorola 68k (VASM/Devpac):Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -7680,7 +7680,7 @@ Motorola 68k (VASM/Devpac):Operand sizes (CPU)=1,,,1,,,,,,,---
 Motorola 68k (VASM/Devpac):Operand sizes (FPU)=1,,,1,,,,,,,---
 Motorola 68k (VASM/Devpac):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Motorola DSP56k - Schema Breeze Dark]
+[Highlighting Motorola DSP56k - Schema Vladeeg Wal Dark]
 Motorola DSP56k:Address Registers=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Motorola DSP56k:BaseN=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Motorola DSP56k:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -7700,7 +7700,7 @@ Motorola DSP56k:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Motorola DSP56k:Offset Registers=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Motorola DSP56k:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Music Publisher - Schema Breeze Dark]
+[Highlighting Music Publisher - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -7729,7 +7729,7 @@ Music Publisher:Tuplet=0,ff{color0.strip},ff{color7.strip},,,,,,,,---
 Music Publisher:Unset Command=19,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 Music Publisher:Value=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Mustache/Handlebars (HTML) - Schema Breeze Dark]
+[Highlighting Mustache/Handlebars (HTML) - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -7840,7 +7840,7 @@ Mustache/Handlebars (HTML):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,--
 Mustache/Handlebars (HTML):Symbol=5,,,,,,,,,,---
 Mustache/Handlebars (HTML):Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Mustache/Handlebars (HTML)/PHP - Schema Breeze Dark]
+[Highlighting Mustache/Handlebars (HTML)/PHP - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8117,7 +8117,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting NSIS - Schema Breeze Dark]
+[Highlighting NSIS - Schema Vladeeg Wal Dark]
 NSIS:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 NSIS:BaseFunc=0,ff{color6.strip},ff{color15.strip},1,,,,,,,---
 NSIS:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -8129,7 +8129,7 @@ NSIS:Option=0,ff{color5.strip},ff{color15.strip},1,,,,,,,---
 NSIS:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 NSIS:Symbol=0,,,,,,,,,,---
 
-[Highlighting Nagios - Schema Breeze Dark]
+[Highlighting Nagios - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8150,7 +8150,7 @@ Nagios:Symbol=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Nagios:Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Nagios:Variable=0,,,,,,,,,,---
 
-[Highlighting Nemerle - Schema Breeze Dark]
+[Highlighting Nemerle - Schema Vladeeg Wal Dark]
 Nemerle:Attribute=29,ff{color2.strip},ff{color10.strip},,,,,,,,---
 Nemerle:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Nemerle:CompilationUnit=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -8163,7 +8163,7 @@ Nemerle:Preprocessing=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Nemerle:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Nemerle:TypeDeclaration=29,ff{color11.strip},ff{color0.strip},1,,,,,,,---
 
-[Highlighting Ninja - Schema Breeze Dark]
+[Highlighting Ninja - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8197,10 +8197,10 @@ Ninja:Symbol=0,,,1,,,,,,,---
 Ninja:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Ninja:Variable Delimiter=5,,,,,,,,,,---
 
-[Highlighting None - Schema Breeze Dark]
+[Highlighting None - Schema Vladeeg Wal Dark]
 None:Normal=0,,,,,,,,,,---
 
-[Highlighting OORS - Schema Breeze Dark]
+[Highlighting OORS - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8286,7 +8286,7 @@ OORS:Content-Type Delimiter=18,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 OORS:Directive=1,,,1,,,,,,,---
 OORS:Normal Text=0,,,,,,,,,,---
 
-[Highlighting OPAL - Schema Breeze Dark]
+[Highlighting OPAL - Schema Vladeeg Wal Dark]
 OPAL:Comment=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 OPAL:Decimal=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 OPAL:Keyword=1,ff{color12.strip},ff{color7.strip},1,,,,,,,---
@@ -8294,7 +8294,7 @@ OPAL:Normal Text=0,,,,,,,,,,---
 OPAL:Sort=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 OPAL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Objective Caml - Schema Breeze Dark]
+[Highlighting Objective Caml - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8457,7 +8457,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Objective Caml Ocamllex - Schema Breeze Dark]
+[Highlighting Objective Caml Ocamllex - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8628,7 +8628,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Objective Caml Ocamlyacc - Schema Breeze Dark]
+[Highlighting Objective Caml Ocamlyacc - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8799,7 +8799,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Objective-C - Schema Breeze Dark]
+[Highlighting Objective-C - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8841,7 +8841,7 @@ Objective-C:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Objective-C:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Objective-C:Symbol=0,,,,,,,,,,---
 
-[Highlighting Objective-C++ - Schema Breeze Dark]
+[Highlighting Objective-C++ - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8885,7 +8885,7 @@ Objective-C++:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Objective-C++:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Objective-C++:Symbol=0,,,,,,,,,,---
 
-[Highlighting Octave - Schema Breeze Dark]
+[Highlighting Octave - Schema Vladeeg Wal Dark]
 Octave:Builtin=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 Octave:Commands=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 Octave:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -8900,7 +8900,7 @@ Octave:Operator=5,,,,,,,,,,---
 Octave:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Octave:Variable=0,,,,,,,,,,---
 
-[Highlighting OpenCL - Schema Breeze Dark]
+[Highlighting OpenCL - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -8944,7 +8944,7 @@ OpenCL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 OpenCL:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 OpenCL:Symbol=0,,,,,,,,,,---
 
-[Highlighting OpenSCAD - Schema Breeze Dark]
+[Highlighting OpenSCAD - Schema Vladeeg Wal Dark]
 OpenSCAD:Boolean=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 OpenSCAD:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 OpenSCAD:Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
@@ -8960,7 +8960,7 @@ OpenSCAD:Three Dim=1,,,1,,,,,,,---
 OpenSCAD:Transformation=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 OpenSCAD:Two Dim=1,,,1,,,,,,,---
 
-[Highlighting PGN - Schema Breeze Dark]
+[Highlighting PGN - Schema Vladeeg Wal Dark]
 PGN:Commentc=21,ff{color8.strip},ff{color7.strip},1,,,,,,,---
 PGN:Commentp=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 PGN:Keyword=1,,,1,,,,,,,---
@@ -8970,7 +8970,7 @@ PGN:Piece=0,ff{color6.strip},ff{color7.strip},1,,,,,,,---
 PGN:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 PGN:Symbol=29,ff{color2.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting PHP (HTML) - Schema Breeze Dark]
+[Highlighting PHP (HTML) - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9300,7 +9300,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting PHP/PHP - Schema Breeze Dark]
+[Highlighting PHP/PHP - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9502,7 +9502,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting PL/I - Schema Breeze Dark]
+[Highlighting PL/I - Schema Vladeeg Wal Dark]
 PL/I:Attribute=1,,,1,,,,,,,---
 PL/I:Bin=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 PL/I:BuiltIn=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -9520,7 +9520,7 @@ PL/I:PreProc=0,ff{color10.strip},ff{color7.strip},,,,,,,,---
 PL/I:Return=1,ff{color10.strip},ff{color7.strip},1,,,,,,,---
 PL/I:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting PLY - Schema Breeze Dark]
+[Highlighting PLY - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9534,7 +9534,7 @@ PLY:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 PLY:Keyword=1,,,1,,,,,,,---
 PLY:Normal Text=0,,,,,,,,,,---
 
-[Highlighting POV-Ray - Schema Breeze Dark]
+[Highlighting POV-Ray - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9562,7 +9562,7 @@ POV-Ray:Texturing=1,ff{color4.strip},ff{color15.strip},,,,,,,,---
 POV-Ray:Transforms=1,ff{color4.strip},ff{color15.strip},,,,,,,,---
 POV-Ray:Unofficial=1,ff{color14.strip},ff{color15.strip},,,,,,,,---
 
-[Highlighting Pango - Schema Breeze Dark]
+[Highlighting Pango - Schema Vladeeg Wal Dark]
 Pango:Color=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Pango:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Pango:Element=1,,,1,,,,,,,---
@@ -9571,7 +9571,7 @@ Pango:Key=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Pango:Normal Text=0,,,,,,,,,,---
 Pango:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Pascal - Schema Breeze Dark]
+[Highlighting Pascal - Schema Vladeeg Wal Dark]
 Pascal:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Pascal:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Pascal:Directive=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -9583,7 +9583,7 @@ Pascal:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Pascal:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Pascal:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Perl - Schema Breeze Dark]
+[Highlighting Perl - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9611,7 +9611,7 @@ Perl:String=12,ff{color9.strip},ff{color9.strip},,,,,,,,---
 Perl:String (interpolated)=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Perl:String Special Character=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting PicAsm - Schema Breeze Dark]
+[Highlighting PicAsm - Schema Vladeeg Wal Dark]
 PicAsm:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 PicAsm:Based Numbers=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 PicAsm:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -9627,7 +9627,7 @@ PicAsm:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 PicAsm:Symbol=0,ff{color9.strip},ff{color4.strip},,,,,,,,---
 PicAsm:Unbased Numbers=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Pig - Schema Breeze Dark]
+[Highlighting Pig - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9649,7 +9649,7 @@ Pig:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Pig:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Pig:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Pike - Schema Breeze Dark]
+[Highlighting Pike - Schema Vladeeg Wal Dark]
 Pike:Binary=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Pike:Builtin Function=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Pike:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -9667,7 +9667,7 @@ Pike:Preprocessor Lib=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Pike:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Pike:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Pony - Schema Breeze Dark]
+[Highlighting Pony - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9694,7 +9694,7 @@ Pony:Special Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Pony:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Pony:Symbol=5,,,,,,,,,,---
 
-[Highlighting PostScript - Schema Breeze Dark]
+[Highlighting PostScript - Schema Vladeeg Wal Dark]
 PostScript:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 PostScript:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 PostScript:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -9704,7 +9704,7 @@ PostScript:Keyword=1,,,1,,,,,,,---
 PostScript:Normal Text=0,,,,,,,,,,---
 PostScript:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting PostScript Printer Description - Schema Breeze Dark]
+[Highlighting PostScript Printer Description - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9716,7 +9716,7 @@ PostScript Printer Description:Keyword=1,,,1,,,,,,,---
 PostScript Printer Description:Option=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 PostScript Printer Description:Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting PowerShell - Schema Breeze Dark]
+[Highlighting PowerShell - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9755,7 +9755,7 @@ PowerShell:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 PowerShell:Symbol=0,,,,,,,,,,---
 PowerShell:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Praat - Schema Breeze Dark]
+[Highlighting Praat - Schema Vladeeg Wal Dark]
 Praat:command=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Praat:comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Praat:expansion=14,ff{color9.strip},ff{color9.strip},,,,,,,,---
@@ -9768,7 +9768,7 @@ Praat:operator=5,,,,,,,,,,---
 Praat:string=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Praat:variable=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Prolog - Schema Breeze Dark]
+[Highlighting Prolog - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9804,7 +9804,7 @@ Prolog:other built-in operator=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Prolog:other built-in predicate=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Prolog:{{ DCG }},=1,,,1,,,,,,,---
 
-[Highlighting Protobuf - Schema Breeze Dark]
+[Highlighting Protobuf - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9825,7 +9825,7 @@ Protobuf:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Protobuf:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Protobuf:Symbol=0,,,,,,,,,,---
 
-[Highlighting Pug - Schema Breeze Dark]
+[Highlighting Pug - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9898,7 +9898,7 @@ Pug:ID=8,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Pug:Interpolation=8,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Pug:Normal Text=0,,,,,,,,,,---
 
-[Highlighting Puppet - Schema Breeze Dark]
+[Highlighting Puppet - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9923,7 +9923,7 @@ Puppet:ResourceReference=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Puppet:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Puppet:Variable=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting PureBasic - Schema Breeze Dark]
+[Highlighting PureBasic - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9950,7 +9950,7 @@ PureBasic:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.stri
 PureBasic:Separator=0,,,,,,,,,,---
 PureBasic:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Python - Schema Breeze Dark]
+[Highlighting Python - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -9990,7 +9990,7 @@ Python:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Python:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Python:String Substitution=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting QDoc Configuration - Schema Breeze Dark]
+[Highlighting QDoc Configuration - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10005,7 +10005,7 @@ QDoc Configuration:Special Character=11,ff{color6.strip},ff{color6.strip},,,,,,,
 QDoc Configuration:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 QDoc Configuration:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting QML - Schema Breeze Dark]
+[Highlighting QML - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10076,7 +10076,7 @@ QML:Property Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 QML:Signal=1,ff{color6.strip},ff{color15.strip},1,,,,,,,---
 QML:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting QMake - Schema Breeze Dark]
+[Highlighting QMake - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10092,7 +10092,7 @@ QMake:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 QMake:System=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 QMake:Variable=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Quake Script - Schema Breeze Dark]
+[Highlighting Quake Script - Schema Vladeeg Wal Dark]
 Quake Script:Action=7,ff{color12.strip},ff{color7.strip},1,,,,,,,---
 Quake Script:Command=1,,,1,,,,,,,---
 Quake Script:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -10105,7 +10105,7 @@ Quake Script:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Quake Script:Symbol=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Quake Script:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting R Markdown - Schema Breeze Dark]
+[Highlighting R Markdown - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10634,7 +10634,7 @@ reStructuredText:Role=1,,,1,,,,,,,---
 reStructuredText:SubstitutionDefinition=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 reStructuredText:SubstitutionReference=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting R Script - Schema Breeze Dark]
+[Highlighting R Script - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10656,7 +10656,7 @@ R Script:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 R Script:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 R Script:Symbol=0,,,,,,,,,,---
 
-[Highlighting R documentation - Schema Breeze Dark]
+[Highlighting R documentation - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10692,7 +10692,7 @@ R documentation:UserDefinedMacro=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 R documentation:UserDefinedMacroArgument=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 R documentation:Verbatim=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 
-[Highlighting RELAX NG - Schema Breeze Dark]
+[Highlighting RELAX NG - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10708,7 +10708,7 @@ RELAX NG:Normal Text=0,,,,,,,,,,---
 RELAX NG:RELAX NG Tag=1,ff{color4.strip},ff{color15.strip},1,,,,,,,---
 RELAX NG:Tag=1,,,1,,,,,,,---
 
-[Highlighting REXX - Schema Breeze Dark]
+[Highlighting REXX - Schema Vladeeg Wal Dark]
 REXX:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 REXX:Built In=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 REXX:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -10719,7 +10719,7 @@ REXX:Normal Text=0,,,,,,,,,,---
 REXX:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 REXX:Symbol=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting RPM Spec - Schema Breeze Dark]
+[Highlighting RPM Spec - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10741,7 +10741,7 @@ RPM Spec:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 RPM Spec:Tag=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 RPM Spec:Warning=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 
-[Highlighting RSI IDL - Schema Breeze Dark]
+[Highlighting RSI IDL - Schema Vladeeg Wal Dark]
 RSI IDL:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 RSI IDL:Command=18,ff{color0.strip},ff{color15.strip},1,,,,,,,---
 RSI IDL:Comment=21,ff{color2.strip},ff{color13.strip},,,,,,,,---
@@ -10755,7 +10755,7 @@ RSI IDL:Normal Text=0,,,,,,,,,,---
 RSI IDL:Octal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 RSI IDL:String=12,ff{color9.strip},ff{color9.strip},,,,,,,,---
 
-[Highlighting RapidQ - Schema Breeze Dark]
+[Highlighting RapidQ - Schema Vladeeg Wal Dark]
 RapidQ:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 RapidQ:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 RapidQ:Directive=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -10766,7 +10766,7 @@ RapidQ:Object=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 RapidQ:Propormeth=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 RapidQ:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting RelaxNG-Compact - Schema Breeze Dark]
+[Highlighting RelaxNG-Compact - Schema Vladeeg Wal Dark]
 RelaxNG-Compact:Comments=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 RelaxNG-Compact:Datatypes=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 RelaxNG-Compact:Definitions=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -10775,7 +10775,7 @@ RelaxNG-Compact:Node Names=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 RelaxNG-Compact:Normal Text=0,,,,,,,,,,---
 RelaxNG-Compact:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting RenderMan RIB - Schema Breeze Dark]
+[Highlighting RenderMan RIB - Schema Vladeeg Wal Dark]
 RenderMan RIB:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 RenderMan RIB:External Resource=1,,,1,,,,,,,---
 RenderMan RIB:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -10786,7 +10786,7 @@ RenderMan RIB:Motion=1,,,1,,,,,,,---
 RenderMan RIB:Normal Text=0,,,,,,,,,,---
 RenderMan RIB:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Replicode - Schema Breeze Dark]
+[Highlighting Replicode - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10821,7 +10821,7 @@ Replicode:Path=12,ff{color1.strip},ff{color1.strip},1,,,,,,,---
 Replicode:Preprocessor=0,,,1,,,,,,,---
 Replicode:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Rich Text Format - Schema Breeze Dark]
+[Highlighting Rich Text Format - Schema Vladeeg Wal Dark]
 Rich Text Format:Braces=1,,,1,,,,,,,---
 Rich Text Format:Character=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Rich Text Format:Control words=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
@@ -10829,7 +10829,7 @@ Rich Text Format:Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 Rich Text Format:Numeric parameter=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Rich Text Format:Text=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Roff - Schema Breeze Dark]
+[Highlighting Roff - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10850,7 +10850,7 @@ Roff:Other Macros=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Roff:Register=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Roff:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Ruby - Schema Breeze Dark]
+[Highlighting Ruby - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -10893,7 +10893,7 @@ Ruby:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Ruby:Substitution=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Ruby:Symbol=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Ruby/Rails/RHTML - Schema Breeze Dark]
+[Highlighting Ruby/Rails/RHTML - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11028,7 +11028,7 @@ Ruby/Rails/RHTML:Substitution=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Ruby/Rails/RHTML:Symbol=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Ruby/Rails/RHTML:Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Rust - Schema Breeze Dark]
+[Highlighting Rust - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11064,7 +11064,7 @@ Rust:Symbol=5,,,,,,,,,,---
 Rust:Trait=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 Rust:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting SCSS - Schema Breeze Dark]
+[Highlighting SCSS - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11097,7 +11097,7 @@ SCSS:Value=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 SCSS:Value Keyword=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 SCSS:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting SELinux CIL Policy - Schema Breeze Dark]
+[Highlighting SELinux CIL Policy - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11190,7 +11190,7 @@ SELinux Policy:Text Quoted=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 SELinux Policy:Text Quoted Open=12,ff{color1.strip},ff{color1.strip},,,,1,,,,---
 SELinux Policy:URL in Comment=21,ff{color8.strip},ff{color7.strip},,,,1,,,,---
 
-[Highlighting SELinux File Contexts - Schema Breeze Dark]
+[Highlighting SELinux File Contexts - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11267,7 +11267,7 @@ SELinux Policy:Text Quoted=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 SELinux Policy:Text Quoted Open=12,ff{color1.strip},ff{color1.strip},,,,1,,,,---
 SELinux Policy:URL in Comment=21,ff{color8.strip},ff{color7.strip},,,,1,,,,---
 
-[Highlighting SELinux Policy - Schema Breeze Dark]
+[Highlighting SELinux Policy - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11330,14 +11330,14 @@ SELinux Policy:Text Quoted=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 SELinux Policy:Text Quoted Open=12,ff{color1.strip},ff{color1.strip},,,,1,,,,---
 SELinux Policy:URL in Comment=21,ff{color8.strip},ff{color7.strip},,,,1,,,,---
 
-[Highlighting SGML - Schema Breeze Dark]
+[Highlighting SGML - Schema Vladeeg Wal Dark]
 SGML:Attribute Name=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 SGML:Attribute Value=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 SGML:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 SGML:Normal Text=0,,,,,,,,,,---
 SGML:Tag=1,,,1,,,,,,,---
 
-[Highlighting SML - Schema Breeze Dark]
+[Highlighting SML - Schema Vladeeg Wal Dark]
 SML:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 SML:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 SML:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -11347,7 +11347,7 @@ SML:Normal Text=0,,,,,,,,,,---
 SML:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 SML:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting SQL (MySQL) - Schema Breeze Dark]
+[Highlighting SQL (MySQL) - Schema Vladeeg Wal Dark]
 SQL (MySQL):Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 SQL (MySQL):ControlFlow=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 SQL (MySQL):Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -11365,7 +11365,7 @@ SQL (MySQL):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 SQL (MySQL):String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 SQL (MySQL):Symbol=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting SQL (Oracle) - Schema Breeze Dark]
+[Highlighting SQL (Oracle) - Schema Vladeeg Wal Dark]
 SQL (Oracle):Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 SQL (Oracle):ControlFlow=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 SQL (Oracle):Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -11378,7 +11378,7 @@ SQL (Oracle):Operator=5,,,,,,,,,,---
 SQL (Oracle):Operator Keyword=1,,,1,,,,,,,---
 SQL (Oracle):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting SQL (PostgreSQL) - Schema Breeze Dark]
+[Highlighting SQL (PostgreSQL) - Schema Vladeeg Wal Dark]
 SQL (PostgreSQL):Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 SQL (PostgreSQL):ControlFlow=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 SQL (PostgreSQL):Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -11395,7 +11395,7 @@ SQL (PostgreSQL):String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 SQL (PostgreSQL):String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 SQL (PostgreSQL):Symbol=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting SQL - Schema Breeze Dark]
+[Highlighting SQL - Schema Vladeeg Wal Dark]
 SQL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 SQL:ControlFlow=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 SQL:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -11414,13 +11414,13 @@ SQL:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 SQL:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 SQL:Symbol=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting STL - Schema Breeze Dark]
+[Highlighting STL - Schema Vladeeg Wal Dark]
 STL:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 STL:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 STL:Keyword=1,,,1,,,,,,,---
 STL:Normal Text=0,,,,,,,,,,---
 
-[Highlighting Sather - Schema Breeze Dark]
+[Highlighting Sather - Schema Vladeeg Wal Dark]
 Sather:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Sather:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Sather:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -11431,7 +11431,7 @@ Sather:Keyword=1,,,1,,,,,,,---
 Sather:Normal Text=0,,,,,,,,,,---
 Sather:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Scala - Schema Breeze Dark]
+[Highlighting Scala - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11618,7 +11618,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Scheme - Schema Breeze Dark]
+[Highlighting Scheme - Schema Vladeeg Wal Dark]
 Scheme:Brackets1=0,ff{color9.strip},ff{color7.strip},1,,,,,,,---
 Scheme:Brackets2=0,ff{color11.strip},ff{color7.strip},1,,,,,,,---
 Scheme:Brackets3=0,ff{color3.strip},ff{color7.strip},1,,,,,,,---
@@ -11637,7 +11637,7 @@ Scheme:Operator=5,,,,,,,,,,---
 Scheme:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 Scheme:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting SiSU - Schema Breeze Dark]
+[Highlighting SiSU - Schema Vladeeg Wal Dark]
 SiSU:Bold=0,ff{color1.strip},ff{color14.strip},1,,,,,,,---
 SiSU:Break=0,ff{color9.strip},ff{color14.strip},,,,,,,,---
 SiSU:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -11656,7 +11656,7 @@ SiSU:Subscript=0,ff{color9.strip},ff{color14.strip},,,,,,,,---
 SiSU:Superscript=0,ff{color9.strip},ff{color14.strip},,,,,,,,---
 SiSU:Underscore=0,ff{color9.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Sieve - Schema Breeze Dark]
+[Highlighting Sieve - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11674,7 +11674,7 @@ Sieve:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Sieve:Test=6,ff{color7.strip},ff{color7.strip},,,,,,,,---
 Sieve:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Smali - Schema Breeze Dark]
+[Highlighting Smali - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11704,7 +11704,7 @@ Smali:Symbol=0,,,,,,,,,,---
 Smali:Type Identifier=16,ff{color12.strip},ff{color11.strip},,1,,,,,,---
 Smali:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting Spice - Schema Breeze Dark]
+[Highlighting Spice - Schema Vladeeg Wal Dark]
 Spice:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Spice:Keyword=1,,,1,,,,,,,---
 Spice:Normal Text=0,,,,,,,,,,---
@@ -11712,7 +11712,7 @@ Spice:Number=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Spice:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Spice:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Stan - Schema Breeze Dark]
+[Highlighting Stan - Schema Vladeeg Wal Dark]
 Stan:Assignment=0,,,,,,,,,,---
 Stan:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Stan:Control Flow=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
@@ -11727,7 +11727,7 @@ Stan:Punctuation=0,,,,,,,,,,---
 Stan:Real=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Stan:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Stata - Schema Breeze Dark]
+[Highlighting Stata - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11746,7 +11746,7 @@ Stata:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Stata:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Stata:System Params=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting SystemC - Schema Breeze Dark]
+[Highlighting SystemC - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11834,7 +11834,7 @@ SystemC:Extensions-Keywords=1,,,1,,,,,,,---
 SystemC:Extensions-Macros=1,ff{color6.strip},ff{color15.strip},1,,,,,,,---
 SystemC:Normal Text=0,,,,,,,,,,---
 
-[Highlighting SystemVerilog - Schema Breeze Dark]
+[Highlighting SystemVerilog - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11907,7 +11907,7 @@ SystemVerilog:System Task Keyword=1,,,1,,,,,,,---
 SystemVerilog:Time Keyword=1,,,1,,,,,,,---
 SystemVerilog:Type Keyword=1,,,1,,,,,,,---
 
-[Highlighting TADS 3 - Schema Breeze Dark]
+[Highlighting TADS 3 - Schema Vladeeg Wal Dark]
 TADS 3:Backslash Code=1,ff{color4.strip},ff{color15.strip},1,,,,,,,---
 TADS 3:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 TADS 3:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -11922,7 +11922,7 @@ TADS 3:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 TADS 3:Symbol=0,,,,,,,,,,---
 TADS 3:ValString=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting TI Basic - Schema Breeze Dark]
+[Highlighting TI Basic - Schema Vladeeg Wal Dark]
 TI Basic:Assignment=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 TI Basic:Keyword=1,,,1,,,,,,,---
 TI Basic:Matrix=0,,,,,,,,,,---
@@ -11930,7 +11930,7 @@ TI Basic:Normal Text=0,,,,,,,,,,---
 TI Basic:Special operators=0,,,,,,,,,,---
 TI Basic:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting TOML - Schema Breeze Dark]
+[Highlighting TOML - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11954,7 +11954,7 @@ TOML:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 TOML:TableHeader=1,,,1,,,,,,,---
 TOML:Whitespace=0,,,,,,,,,,---
 
-[Highlighting TT2 - Schema Breeze Dark]
+[Highlighting TT2 - Schema Vladeeg Wal Dark]
 TT2:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 TT2:Control Structures=4,ff{color11.strip},ff{color11.strip},1,,,,,,,---
 TT2:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -11975,7 +11975,7 @@ TT2:TT2 Text=0,,,,,,,,,,---
 TT2:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 TT2:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 
-[Highlighting TaskJuggler - Schema Breeze Dark]
+[Highlighting TaskJuggler - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -11994,7 +11994,7 @@ TaskJuggler:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 TaskJuggler:Symbol=0,,,,,,,,,,---
 TaskJuggler:Time=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Tcl/Tk - Schema Breeze Dark]
+[Highlighting Tcl/Tk - Schema Vladeeg Wal Dark]
 Tcl/Tk:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Tcl/Tk:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Tcl/Tk:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -12006,7 +12006,7 @@ Tcl/Tk:Region Marker=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},
 Tcl/Tk:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Tcl/Tk:Variable=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Tcsh - Schema Breeze Dark]
+[Highlighting Tcsh - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12032,7 +12032,7 @@ Tcsh:String SingleQ=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Tcsh:String Transl.=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Tcsh:Variable=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting Texinfo - Schema Breeze Dark]
+[Highlighting Texinfo - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12042,7 +12042,7 @@ Texinfo:Command=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Texinfo:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Texinfo:Normal Text=0,,,,,,,,,,---
 
-[Highlighting Textile - Schema Breeze Dark]
+[Highlighting Textile - Schema Vladeeg Wal Dark]
 Textile:Normal Text=0,,,,,,,,,,---
 Textile:blockattrs=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Textile:comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -12058,7 +12058,7 @@ Textile:strikeout=0,,,,,1,,,,,---
 Textile:strong=0,,,1,,,,,,,---
 Textile:textblock=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Tiger - Schema Breeze Dark]
+[Highlighting Tiger - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12075,7 +12075,7 @@ Tiger:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Tiger:Symbol=5,,,,,,,,,,---
 Tiger:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Troff Mandoc - Schema Breeze Dark]
+[Highlighting Troff Mandoc - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12103,7 +12103,7 @@ Troff Mandoc:Normal Text=0,,,,,,,,,,---
 Troff Mandoc:Other Macros=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Troff Mandoc:Paragraphs=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting TypeScript - Schema Breeze Dark]
+[Highlighting TypeScript - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12188,7 +12188,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting TypeScript React - Schema Breeze Dark]
+[Highlighting TypeScript React - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12291,7 +12291,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting TypeScript/PHP - Schema Breeze Dark]
+[Highlighting TypeScript/PHP - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12542,7 +12542,7 @@ TypeScript:Symbol=5,,,,,,,,,,---
 TypeScript:Template=13,ff{color9.strip},ff{color9.strip},,,,,,,,---
 TypeScript:Types=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting UnrealScript - Schema Breeze Dark]
+[Highlighting UnrealScript - Schema Vladeeg Wal Dark]
 UnrealScript:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 UnrealScript:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 UnrealScript:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
@@ -12558,7 +12558,7 @@ UnrealScript:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 UnrealScript:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 UnrealScript:Symbol=0,,,,,,,,,,---
 
-[Highlighting VHDL - Schema Breeze Dark]
+[Highlighting VHDL - Schema Vladeeg Wal Dark]
 VHDL:Attribute=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 VHDL:Bit=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 VHDL:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -12577,7 +12577,7 @@ VHDL:Reference=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 VHDL:Signal=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 VHDL:Vector=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting VRML - Schema Breeze Dark]
+[Highlighting VRML - Schema Vladeeg Wal Dark]
 VRML:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 VRML:Data Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 VRML:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -12589,7 +12589,7 @@ VRML:Normal Text=0,,,,,,,,,,---
 VRML:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 VRML:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Vala - Schema Breeze Dark]
+[Highlighting Vala - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12636,7 +12636,7 @@ Vala:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Vala:Symbol=0,,,,,,,,,,---
 Vala:Variable=1,ff{color12.strip},ff{color15.strip},,,,,,,,---
 
-[Highlighting Valgrind Suppression - Schema Breeze Dark]
+[Highlighting Valgrind Suppression - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12648,7 +12648,7 @@ Valgrind Suppression:FrameKind=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Valgrind Suppression:Normal Text=0,,,,,,,,,,---
 Valgrind Suppression:RuleName=1,,,1,,,,,,,---
 
-[Highlighting Varnish 3 module spec file - Schema Breeze Dark]
+[Highlighting Varnish 3 module spec file - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12670,7 +12670,7 @@ Varnish 3 module spec file:Normal Text=0,,,,,,,,,,---
 Varnish 3 module spec file:Symbol=0,,,,,,,,,,---
 Varnish 3 module spec file:VMod Identifier=16,ff{color12.strip},ff{color12.strip},,,,,,,,---
 
-[Highlighting Varnish 4 Configuration Language - Schema Breeze Dark]
+[Highlighting Varnish 4 Configuration Language - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12747,7 +12747,7 @@ Varnish 4 Configuration Language:VMod Identifier=16,ff{color12.strip},ff{color12
 Varnish 4 Configuration Language:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Varnish 4 Configuration Language:Well-known VMod=16,ff{color12.strip},ff{color12.strip},1,,,,,,,---
 
-[Highlighting Varnish 4 Test Case language - Schema Breeze Dark]
+[Highlighting Varnish 4 Test Case language - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12881,7 +12881,7 @@ Varnish 4 Test Case language:VSL Tag=16,ff{color12.strip},ff{color12.strip},,,,,
 Varnish 4 Test Case language:Varnish Identifier=16,ff{color12.strip},ff{color12.strip},,,,1,,,,---
 Varnish 4 Test Case language:VarnishStat metric=16,ff{color12.strip},ff{color12.strip},,,,,,,,---
 
-[Highlighting Varnish 4 module spec file - Schema Breeze Dark]
+[Highlighting Varnish 4 module spec file - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -12925,7 +12925,7 @@ reStructuredText:Role=1,,,1,,,,,,,---
 reStructuredText:SubstitutionDefinition=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 reStructuredText:SubstitutionReference=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Varnish Configuration Language - Schema Breeze Dark]
+[Highlighting Varnish Configuration Language - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13001,7 +13001,7 @@ Varnish Configuration Language:VMod Identifier=16,ff{color12.strip},ff{color12.s
 Varnish Configuration Language:Variable=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Varnish Configuration Language:Well-known VMod=16,ff{color12.strip},ff{color12.strip},1,,,,,,,---
 
-[Highlighting Varnish Test Case language - Schema Breeze Dark]
+[Highlighting Varnish Test Case language - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13129,7 +13129,7 @@ Varnish Test Case language:TxResp Keyword=1,ff{color2.strip},ff{color7.strip},,,
 Varnish Test Case language:Varnish Identifier=16,ff{color12.strip},ff{color12.strip},,,,1,,,,---
 Varnish Test Case language:VarnishStat metric=16,ff{color12.strip},ff{color12.strip},,,,,,,,---
 
-[Highlighting Velocity - Schema Breeze Dark]
+[Highlighting Velocity - Schema Vladeeg Wal Dark]
 Velocity:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Velocity:Keyword=1,,,1,,,,,,,---
 Velocity:Normal Text=0,,,,,,,,,,---
@@ -13137,7 +13137,7 @@ Velocity:Other=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Velocity:Properties=0,ff{color14.strip},ff{color15.strip},,1,,,,,,---
 Velocity:Variable=1,ff{color12.strip},ff{color15.strip},,,,,,,,---
 
-[Highlighting Vera - Schema Breeze Dark]
+[Highlighting Vera - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13182,7 +13182,7 @@ Vera:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Vera:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Vera:Symbol=0,,,,,,,,,,---
 
-[Highlighting Verilog - Schema Breeze Dark]
+[Highlighting Verilog - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13210,7 +13210,7 @@ Verilog:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 Verilog:Symbol=0,,,,,,,,,,---
 Verilog:System Task=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting WINE Config - Schema Breeze Dark]
+[Highlighting WINE Config - Schema Vladeeg Wal Dark]
 WINE Config:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 WINE Config:Key=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 WINE Config:Normal Text=0,,,,,,,,,,---
@@ -13218,7 +13218,7 @@ WINE Config:RegistryBeginEnd=0,ff{color14.strip},ff{color15.strip},1,,,,,,,---
 WINE Config:Section=1,,,1,,,,,,,---
 WINE Config:Value=0,ff{color12.strip},ff{color15.strip},1,,,,,,,---
 
-[Highlighting Wavefront OBJ - Schema Breeze Dark]
+[Highlighting Wavefront OBJ - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13230,7 +13230,7 @@ Wavefront OBJ:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
 Wavefront OBJ:Keyword=1,,,1,,,,,,,---
 Wavefront OBJ:Normal Text=0,,,,,,,,,,---
 
-[Highlighting Wayland Trace - Schema Breeze Dark]
+[Highlighting Wayland Trace - Schema Vladeeg Wal Dark]
 Wayland Trace:Function=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 Wayland Trace:Interface=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Wayland Trace:Keyword=1,,,1,,,,,,,---
@@ -13240,7 +13240,7 @@ Wayland Trace:Operator=5,,,,,,,,,,---
 Wayland Trace:StringParameter=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Wayland Trace:TimeStamp=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting Wesnoth Markup Language - Schema Breeze Dark]
+[Highlighting Wesnoth Markup Language - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13303,7 +13303,7 @@ Wesnoth Markup Language:Variable Substitution=17,ff{color11.strip},ff{color11.st
 Wesnoth Markup Language:WML Attribute=9,ff{color12.strip},ff{color11.strip},,,,,,,,---
 Wesnoth Markup Language:WML Node=1,,,1,,,,,,,---
 
-[Highlighting XML (Debug) - Schema Breeze Dark]
+[Highlighting XML (Debug) - Schema Vladeeg Wal Dark]
 XML (Debug):Attribute=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 XML (Debug):Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 XML (Debug):Doctype Declaration=1,,,1,,,,,,,---
@@ -13315,7 +13315,7 @@ XML (Debug):Processing Instruction=1,,,1,,,,,,,---
 XML (Debug):Processing Instruction Body=0,,,,,,,,,,---
 XML (Debug):Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting XML - Schema Breeze Dark]
+[Highlighting XML - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13334,7 +13334,7 @@ XML:PEntityRef=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 XML:Processing Instruction=1,,,1,,,,,,,---
 XML:Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting XUL - Schema Breeze Dark]
+[Highlighting XUL - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13367,7 +13367,7 @@ XUL:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 XUL:Symbol=0,,,,,,,,,,---
 XUL:Value=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting Xonotic Script - Schema Breeze Dark]
+[Highlighting Xonotic Script - Schema Vladeeg Wal Dark]
 Xonotic Script:Action=0,ff{color11.strip},ff{color10.strip},,,,,,,,---
 Xonotic Script:Aliases=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 Xonotic Script:Command=1,,,1,,,,,,,---
@@ -13381,7 +13381,7 @@ Xonotic Script:String=12,ff{color9.strip},ff{color10.strip},,,,,,,,---
 Xonotic Script:Symbol=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Xonotic Script:Variable=1,ff{color1.strip},ff{color7.strip},1,,,,,,,---
 
-[Highlighting YAML - Schema Breeze Dark]
+[Highlighting YAML - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13420,7 +13420,7 @@ YAML:Operator=1,,,1,,,,,,,---
 YAML:Reference=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 YAML:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting YANG - Schema Breeze Dark]
+[Highlighting YANG - Schema Vladeeg Wal Dark]
 YANG:Boolean=3,ff{color14.strip},ff{color14.strip},,,,,,,,---
 YANG:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 YANG:Conditional=1,,,1,,,,,,,---
@@ -13431,7 +13431,7 @@ YANG:Statement=1,,,1,,,,,,,---
 YANG:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 YANG:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Yacc/Bison - Schema Breeze Dark]
+[Highlighting Yacc/Bison - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13525,7 +13525,7 @@ Yacc/Bison:Rule=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Yacc/Bison:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Yacc/Bison:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 
-[Highlighting Zonnon - Schema Breeze Dark]
+[Highlighting Zonnon - Schema Vladeeg Wal Dark]
 Zonnon:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 Zonnon:Keyword=1,,,1,,,,,,,---
 Zonnon:Modifier=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
@@ -13535,7 +13535,7 @@ Zonnon:Predefine=1,,,1,1,,,,,,---
 Zonnon:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Zonnon:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting Zsh - Schema Breeze Dark]
+[Highlighting Zsh - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13561,7 +13561,7 @@ Zsh:String SingleQ=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Zsh:String Transl.=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 Zsh:Variable=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting dot - Schema Breeze Dark]
+[Highlighting dot - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13578,7 +13578,7 @@ dot:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 dot:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 dot:Symbol=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting ferite - Schema Breeze Dark]
+[Highlighting ferite - Schema Vladeeg Wal Dark]
 ferite:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 ferite:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 ferite:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
@@ -13595,7 +13595,7 @@ ferite:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 ferite:String Char=11,ff{color6.strip},ff{color6.strip},,,,,,,,---
 ferite:Symbol=0,,,,,,,,,,---
 
-[Highlighting fstab - Schema Breeze Dark]
+[Highlighting fstab - Schema Vladeeg Wal Dark]
 fstab:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 fstab:Device=1,,,1,,,,,,,---
 fstab:Dump=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -13607,7 +13607,7 @@ fstab:Pass=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 fstab:Type=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 fstab:Valid FileSystem=16,ff{color12.strip},ff{color11.strip},,1,,,,,,---
 
-[Highlighting k - Schema Breeze Dark]
+[Highlighting k - Schema Vladeeg Wal Dark]
 k:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 k:CommentToEOF=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 k:DotQfunctions=1,,,1,,,,,,,---
@@ -13632,7 +13632,7 @@ k:kSeparators=0,,,,,,,,,,---
 k:kSymbol=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 k:kSystemCommand=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting kdesrc-buildrc - Schema Breeze Dark]
+[Highlighting kdesrc-buildrc - Schema Vladeeg Wal Dark]
 kdesrc-buildrc:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 kdesrc-buildrc:Environment Variable Name=12,ff{color9.strip},ff{color1.strip},,,,,,,,---
 kdesrc-buildrc:Global Declaration=1,,,1,,,,,,,---
@@ -13645,7 +13645,7 @@ kdesrc-buildrc:Possible Error=30,ff{color9.strip},ff{color9.strip},,,,1,,,,---
 kdesrc-buildrc:Unknown Option Name=1,ff{color3.strip},ff{color7.strip},,,,,,,,---
 kdesrc-buildrc:Variable=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting mergetag text - Schema Breeze Dark]
+[Highlighting mergetag text - Schema Vladeeg Wal Dark]
 mergetag text:Binary=18,ff{color11.strip},ff{color11.strip},,,,,,,,---
 mergetag text:Brackets=1,,,1,,,,,,,---
 mergetag text:Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -13663,7 +13663,7 @@ mergetag text:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 mergetag text:Tag Character=1,ff{color10.strip},ff{color7.strip},1,,,,,,,---
 mergetag text:Type=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting nesC - Schema Breeze Dark]
+[Highlighting nesC - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13685,7 +13685,7 @@ nesC:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 nesC:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 nesC:Symbol=0,,,,,,,,,,---
 
-[Highlighting noweb - Schema Breeze Dark]
+[Highlighting noweb - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13899,7 +13899,7 @@ noweb:Prose=0,,,,,,,,,,---
 noweb:Punctuation=25,ff{color12.strip},ff{color6.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 noweb:SectionName=25,ff{color12.strip},ff{color6.strip},,1,,,ff{color0.strip},ff{color0.strip},,---
 
-[Highlighting progress - Schema Breeze Dark]
+[Highlighting progress - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13925,7 +13925,7 @@ progress:String Char=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 progress:Symbol=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
 progress:Widgets=1,,,1,,,,,,,---
 
-[Highlighting q - Schema Breeze Dark]
+[Highlighting q - Schema Vladeeg Wal Dark]
 k:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 k:CommentToEOF=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 k:DotQfunctions=1,,,1,,,,,,,---
@@ -13953,7 +13953,7 @@ q:DotQfunctions=1,,,1,,,,,,,---
 q:Normal Text=0,,,,,,,,,,---
 q:qKeyword=1,,,1,,,,,,,---
 
-[Highlighting reStructuredText - Schema Breeze Dark]
+[Highlighting reStructuredText - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -13980,7 +13980,7 @@ reStructuredText:Role=1,,,1,,,,,,,---
 reStructuredText:SubstitutionDefinition=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 reStructuredText:SubstitutionReference=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting scilab - Schema Breeze Dark]
+[Highlighting scilab - Schema Vladeeg Wal Dark]
 scilab:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 scilab:Constants-keyword=0,ff{color6.strip},ff{color14.strip},1,,,,,,,---
 scilab:Control-keywords=0,ff{color1.strip},ff{color9.strip},1,,,,,,,---
@@ -13993,7 +13993,7 @@ scilab:Structure-keywords=0,ff{color4.strip},ff{color11.strip},1,,,,,,,---
 scilab:Warning-keywords=0,ff{color9.strip},ff{color9.strip},1,,,,,,,---
 scilab:functions=2,ff{color12.strip},ff{color10.strip},1,1,,,,,,---
 
-[Highlighting sed - Schema Breeze Dark]
+[Highlighting sed - Schema Vladeeg Wal Dark]
 sed:Brace=0,,,,,,,,,,---
 sed:Char List=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 sed:Char List Escape=10,ff{color6.strip},ff{color6.strip},,,,,,,,---
@@ -14020,7 +14020,7 @@ sed:Separator=12,ff{color12.strip},ff{color1.strip},,,,,,,,---
 sed:Step=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 sed:Wrap Length=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 
-[Highlighting txt2tags - Schema Breeze Dark]
+[Highlighting txt2tags - Schema Vladeeg Wal Dark]
 txt2tags:Bar=0,ff{color7.strip},ff{color7.strip},,,,,,,,---
 txt2tags:Bold=0,ff{color12.strip},ff{color7.strip},1,,,,,,,---
 txt2tags:BoldItalic=0,,,1,1,,,,,,---
@@ -14041,7 +14041,7 @@ txt2tags:Title=0,ff{color1.strip},ff{color7.strip},,,,,,,,---
 txt2tags:Underline=0,ff{color8.strip},ff{color7.strip},,,,1,,,,---
 txt2tags:Verbatim Line=0,ff{color2.strip},ff{color7.strip},,,,,,,,---
 
-[Highlighting vCard, vCalendar, iCalendar - Schema Breeze Dark]
+[Highlighting vCard, vCalendar, iCalendar - Schema Vladeeg Wal Dark]
 vCard, vCalendar, iCalendar:Assignment=1,,,1,,,,,,,---
 vCard, vCalendar, iCalendar:Attribute=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 vCard, vCalendar, iCalendar:Delimiter=1,,,1,,,,,,,---
@@ -14050,7 +14050,7 @@ vCard, vCalendar, iCalendar:Parameter value=29,ff{color10.strip},ff{color10.stri
 vCard, vCalendar, iCalendar:Property=1,,,1,,,,,,,---
 vCard, vCalendar, iCalendar:vCard=25,ff{color12.strip},ff{color6.strip},,,,,ff{color0.strip},ff{color0.strip},,---
 
-[Highlighting x.org Configuration - Schema Breeze Dark]
+[Highlighting x.org Configuration - Schema Vladeeg Wal Dark]
 Alerts:Alert Level 1=28,ff{color9.strip},ff{color9.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 2=28,ff{color11.strip},ff{color11.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 Alerts:Alert Level 3=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
@@ -14067,7 +14067,7 @@ x.org Configuration:Section Name=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 x.org Configuration:Value=16,ff{color12.strip},ff{color11.strip},,,,,,,,---
 x.org Configuration:Value2=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 
-[Highlighting xHarbour - Schema Breeze Dark]
+[Highlighting xHarbour - Schema Vladeeg Wal Dark]
 xHarbour:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 xHarbour:Function=2,ff{color5.strip},ff{color7.strip},,,,,,,,---
 xHarbour:Keyword=1,,,1,,,,,,,---
@@ -14077,7 +14077,7 @@ xHarbour:Operator=18,ff{color13.strip},ff{color5.strip},,,,,,,,---
 xHarbour:Preprocessor=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 xHarbour:String=12,ff{color1.strip},ff{color1.strip},,,,,,,,---
 
-[Highlighting xslt - Schema Breeze Dark]
+[Highlighting xslt - Schema Vladeeg Wal Dark]
 xslt:Alert=28,ff{color10.strip},ff{color10.strip},1,,,,ff{color0.strip},ff{color0.strip},,---
 xslt:Attribute=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 xslt:Attribute Value=12,ff{color1.strip},ff{color15.strip},,,,,,,,---
@@ -14101,7 +14101,7 @@ xslt:XPath/ XSLT Function=1,ff{color6.strip},ff{color15.strip},1,,,,,,,---
 xslt:XSLT 2.0 Tag=1,ff{color4.strip},ff{color15.strip},1,,,,,,,---
 xslt:XSLT Tag=1,ff{color4.strip},ff{color15.strip},1,,,,,,,---
 
-[Highlighting yacas - Schema Breeze Dark]
+[Highlighting yacas - Schema Vladeeg Wal Dark]
 yacas:Comment=21,ff{color8.strip},ff{color7.strip},,,,,,,,---
 yacas:Decimal=17,ff{color11.strip},ff{color11.strip},,,,,,,,---
 yacas:Float=19,ff{color11.strip},ff{color11.strip},,,,,,,,---
@@ -14116,4 +14116,4 @@ yacas:Symbol=29,ff{color10.strip},ff{color10.strip},,,,,,,,---
 Font=Hack,9,-1,7,50,0,0,0,0,0,Regular
 full schema=true
 highlightings=MIPS Assembler,Intel x86 (NASM),Intel x86 (FASM),GNU Assembler,.desktop,PicAsm,Motorola DSP56k,Motorola 68k (VASM/Devpac),Doxyfile,Cisco,Apache Configuration,Adblock Plus,INI Files,Gitolite,Git Ignore,fstab,Nagios,mergetag text,kdesrc-buildrc,Kconfig,Varnish 4 Test Case language,Varnish 4 Configuration Language,TOML,QDoc Configuration,x.org Configuration,WINE Config,Varnish Test Case language,Varnish Configuration Language,progress,LDIF,4GL-PER,4GL,SQL (PostgreSQL),SQL (Oracle),SQL (MySQL),SQL,SystemVerilog,SystemC,Spice,AHDL,AppArmor Security Profile,VHDL,Verilog,Vera,BibTeX,ASP,ASN.1,AsciiDoc,ConTeXt,ColdFusion,CleanCSS,CartoCSS,GNU M4,GCCExtensions,FSharp,FreeBASIC,Haxe,Haskell,Groovy,Go,ISO C++,Inform,ILERPG,IDL,KDev-PG[-Qt] Grammar,KBasic,Julia,Java,Literate Haskell,Literate Curry,Lex/Flex,Kotlin,Modula-2,Modelica,LPC,Logtalk,MonoBasic,Modula-2 (R10 only),Modula-2 (PIM only),Modula-2 (ISO only),Objective Caml,noweb,nesC,Nemerle,Objective-C++,Objective-C,Objective Caml Ocamlyacc,Objective Caml Ocamllex,Pascal,OpenCL,OPAL,OORS,Protobuf,Prolog,Pony,PL/I,Rust,RSI IDL,RapidQ,PureBasic,SELinux Policy,SELinux CIL Policy,Scala,Sather,Vala,TADS 3,SML,Smali,Yacc/Bison,xHarbour,Varnish 4 module spec file,Varnish 3 module spec file,Zonnon,JCL,JavaScript React,JavaScript,J,Mason,Lua,LSL,k,Perl,NSIS,MS-DOS Batch,MEL,Pike,Pig,PHP/PHP,PHP (HTML),Python,Puppet,Praat,PowerShell,REXX,Quake Script,QML,q,Sieve,sed,Scheme,Ruby,TypeScript,Tcsh,Tcl/Tk,TaskJuggler,Xonotic Script,Velocity,UnrealScript,TypeScript React,Ada,ActionScript 2.0,ABAP,Zsh,Bitbake,ANSI C89,ANS-Forth94,Agda,C++,C#,C,Boo,Clojure,Clipper,CGiS,Cg,Curry,Crack,Component-Pascal,Common Lisp,Elixir,Eiffel,E Language,D,Fortran (Free Format),Fortran (Fixed Format),FlatBuffers,Elm,Hunspell Dictionary File,Hunspell Affix File,Git Rebase,GDB Init,Jam,Intel HEX,Hunspell Thesaurus Index File,Hunspell Thesaurus File,Logcat,LilyPond,JavaScript/PHP,JavaScript React/PHP,MIB,Meson,Makefile,M3U,Ninja,Mustache/Handlebars (HTML)/PHP,Music Publisher,Modelines,RPM Spec,QMake,PGN,OpenSCAD,Valgrind Suppression,TypeScript/PHP,Tiger,SELinux File Contexts,dot,B-Method,Ansys,Wayland Trace,Gnuplot,GDL,GAP,FASTQ,Maxima,Matlab,Mathematica,Magma,Replicode,R Script,Octave,Metamath,TI Basic,Stata,Stan,scilab,AutoHotKey,AMPLE,4DOS BatchToMemory,yacas,Chicken,BrightScript,Bash,AWK,Erlang,CubeScript,CoffeeScript,CLIST,GNU Linker Script,Fish,ferite,Euphoria,DoxygenLua,Doxygen,Django HTML Template,CSS,GNU Gettext,GlossTex,FTL,DTD,Javadoc,HTML,Hamlet,Haml,LaTeX,JSP,JSON,Jira,Markdown,Mako,MAB-DB,LESSCSS,Pango,Mustache/Handlebars (HTML),Metapost/Metafont,MediaWiki,R documentation,Pug,PostScript Printer Description,PostScript,reStructuredText,RelaxNG-Compact,RELAX NG,R Markdown,SCSS,Ruby/Rails/RHTML,Roff,Rich Text Format,Textile,Texinfo,SiSU,SGML,vCard\\, vCalendar\\, iCalendar,txt2tags,TT2,Troff Mandoc,xslt,XML (Debug),XML,Wesnoth Markup Language,ABC,YANG,YAML,XUL,CSS/PHP,CMake,ChangeLog,Alerts,Diff,Debian Control,Debian Changelog,CUE Sheet,GDB Backtrace,GDB,Email,Dockerfile,PLY,GLSL,G-Code,None,VRML,STL,RenderMan RIB,POV-Ray,Common Intermediate Language (CIL),AVR Assembler,Asm6502,Wavefront OBJ
-schema=Breeze Dark
+schema=Vladeeg Wal Dark
