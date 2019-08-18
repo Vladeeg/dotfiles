@@ -1,0 +1,129 @@
+[ColorEffects:Disabled]
+Color={color0.rgb}
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color={color8.rgb}
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate={color8.rgb}
+BackgroundNormal={color0.rgb}
+DecorationFocus={color12.rgb}
+DecorationHover={color12.rgb}
+ForegroundActive={color12.rgb}
+ForegroundInactive={color7.rgb}
+ForegroundLink={color4.rgb}
+ForegroundNegative={color9.rgb}
+ForegroundNeutral={color11.rgb}
+ForegroundNormal={color15.rgb}
+ForegroundPositive={color2.rgb}
+ForegroundVisited={color7.rgb}
+
+[Colors:Selection]
+BackgroundAlternate={color12.rgb}
+BackgroundNormal={color12.rgb}
+DecorationFocus={color12.rgb}
+DecorationHover={color12.rgb}
+ForegroundActive={color15.rgb}
+ForegroundInactive={color15.rgb}
+ForegroundLink={color11.rgb}
+ForegroundNegative={color9.rgb}
+ForegroundNeutral={color11.rgb}
+ForegroundNormal={color15.rgb}
+ForegroundPositive={color2.rgb}
+ForegroundVisited={color7.rgb}
+
+[Colors:Tooltip]
+BackgroundAlternate={color8.rgb}
+BackgroundNormal={color0.rgb}
+DecorationFocus={color12.rgb}
+DecorationHover={color12.rgb}
+ForegroundActive={color12.rgb}
+ForegroundInactive={color7.rgb}
+ForegroundLink={color4.rgb}
+ForegroundNegative={color9.rgb}
+ForegroundNeutral={color11.rgb}
+ForegroundNormal={color15.rgb}
+ForegroundPositive={color2.rgb}
+ForegroundVisited={color7.rgb}
+
+[Colors:View]
+BackgroundAlternate={color0.rgb}
+BackgroundNormal={color0.rgb}
+DecorationFocus={color12.rgb}
+DecorationHover={color12.rgb}
+ForegroundActive={color12.rgb}
+ForegroundInactive={color7.rgb}
+ForegroundLink={color4.rgb}
+ForegroundNegative={color9.rgb}
+ForegroundNeutral={color11.rgb}
+ForegroundNormal={color15.rgb}
+ForegroundPositive={color2.rgb}
+ForegroundVisited={color7.rgb}
+
+[Colors:Window]
+BackgroundAlternate={color8.rgb}
+BackgroundNormal={color0.rgb}
+DecorationFocus={color12.rgb}
+DecorationHover={color12.rgb}
+ForegroundActive={color12.rgb}
+ForegroundInactive={color7.rgb}
+ForegroundLink={color4.rgb}
+ForegroundNegative={color9.rgb}
+ForegroundNeutral={color11.rgb}
+ForegroundNormal={color15.rgb}
+ForegroundPositive={color2.rgb}
+ForegroundVisited={color7.rgb}
+
+[Colors:Complementary]
+BackgroundAlternate={color8.rgb}
+BackgroundNormal={color0.rgb}
+DecorationFocus={color4.rgb}
+DecorationHover={color14.rgb}
+ForegroundActive={color11.rgb}
+ForegroundInactive={color7.rgb}
+ForegroundLink={color14.rgb}
+ForegroundNegative={color1.rgb}
+ForegroundNeutral={color3.rgb}
+ForegroundNormal={color15.rgb}
+ForegroundPositive={color10.rgb}
+ForegroundVisited={color14.rgb}
+
+[General]
+ColorScheme=Vladeeg Wal Dark
+Name=Vladeeg Wal Dark
+Name[da]=Vladeeg Wal Dark
+Name[en_GB]=Vladeeg Wal Dark
+Name[et]=Vladeeg Wal Dark
+Name[fi]=Vladeeg Wal Dark
+Name[he]=Vladeeg Wal Dark
+Name[hu]=Vladeeg Wal Dark
+Name[id]=Vladeeg Wal Dark
+Name[nl]=Vladeeg Wal Dark
+Name[ru]=Vladeeg Wal, тёмный вариант
+Name[zh_TW]=Vladeeg Wal Dark
+shadeSortColumn=true
+
+[KDE]
+contrast=4
+
+[WM]
+activeBackground={color0.rgb}
+activeBlend={color15.rgb}
+activeForeground={color15.rgb}
+inactiveBackground={color0.rgb}
+inactiveBlend={color8.rgb}
+inactiveForeground={color7.rgb}
