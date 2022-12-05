@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Toggle Dark Mode
+Comment=
+Exec=darkman toggle
+Icon=weather-clear-night
+Path=
+Terminal=false
+StartupNotify=false
