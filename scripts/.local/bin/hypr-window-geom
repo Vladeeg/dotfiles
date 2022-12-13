@@ -1,0 +1,21 @@
+#!/usr/bin/python
+
+import os
+import json
+
+stream = os.popen('hyprctl activewindow -j')
+json_string = stream.read()
+
+payload = json.loads(json_string)
+pos = payload["at"]
+size = payload["size"]
+
+PAD = 5
+
+print("{},{} {}x{}".format(
+    int(pos[0]) - PAD,
+    int(pos[1]) - PAD,
+    int(size[0]) + PAD * 2,
+    int(size[1]) + PAD * 2),
+)
+

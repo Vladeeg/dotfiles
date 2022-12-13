@@ -1,0 +1,19 @@
+#!/usr/bin/python
+
+import sys
+import json
+
+layout_map = {
+    'English (US)': 'us',
+    'Russian': 'ru',
+}
+
+json_string = ''
+for line in sys.stdin:
+    json_string += line
+
+info = json.loads(json_string)
+keyboards = info["keyboards"]
+keeb = next(keeb for keeb in keyboards if keeb["main"])
+
+print(layout_map[keeb["active_keymap"]])
