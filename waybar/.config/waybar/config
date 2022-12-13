@@ -1,13 +1,13 @@
 {
     "layer": "top", // Waybar at top layer
     // "position": "bottom", // Waybar position (top|bottom|left|right)
-    "height": 24, // Waybar height (to be removed for auto height)
+    "height": 25, // Waybar height (to be removed for auto height)
     // "width": 1280, // Waybar width
-    "spacing": 4, // Gaps between modules (4px)
+    "spacing": 0, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": ["wlr/workspaces"],
-    // "modules-center": ["wlr/window"],
-    "modules-right": ["idle_inhibitor", "custom/hypr-kbd", "pulseaudio", "network", "cpu", "memory", "temperature", "backlight", "battery", "clock", "tray"],
+    // "modules-center": ["hyprland/window"],
+    "modules-right": ["custom/hypr-kbd", "pulseaudio", "network", "cpu", "memory", "temperature", "backlight", "battery", "clock", "custom/notification", "tray"],
     // Modules configuration
     "wlr/workspaces": {
     	"on-click": "activate",
@@ -25,11 +25,32 @@
             "default": ""
         }
     },
+    "hyprland/window": {
+	"format": "{}",
+	"separate-outputs": true
+    },
     "custom/hypr-kbd": {
 	"exec": "hyprctl devices -j | hypr-kb-layout",
 	"interval": "once",
 	"signal": 8
     },
+    "custom/notification": {
+	"tooltip": false,
+	"format": "{icon}",
+	"format-icons": {
+	     "notification": "🔔<span foreground='red'><sup></sup></span>",
+	     "none": "🔔",
+	     "dnd-notification": "🔕<span foreground='red'><sup></sup></span>",
+	     "dnd-none": "🔕"
+	},
+	"return-type": "json",
+	"exec-if": "which swaync-client",
+	"exec": "swaync-client -swb",
+	"on-click": "swaync-client -t -sw",
+	"on-click-right": "swaync-client -d -sw",
+	"escape": true
+   },
+
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
@@ -130,7 +151,7 @@
     },
     "network": {
         // "interface": "wlp2*", // (Optional) To force the use of this interface
-        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-wifi": "({signalStrength}%) ",
         "format-ethernet": "{ipaddr}/{cidr} ",
         "tooltip-format": "{ifname} via {gwaddr} ",
         "format-linked": "{ifname} (No IP) ",
@@ -170,3 +191,4 @@
     }
 }
 
+// vim: ft=jsonc
