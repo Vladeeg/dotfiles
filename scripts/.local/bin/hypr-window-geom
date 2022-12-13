@@ -1,16 +1,33 @@
 #!/usr/bin/python
 
 import os
+import argparse
 import json
 
-stream = os.popen('hyprctl activewindow -j')
-json_string = stream.read()
+parser = argparse.ArgumentParser()
+parser.add_argument('-m', '--monitor', action='store_true')
 
-payload = json.loads(json_string)
-pos = payload["at"]
-size = payload["size"]
+args = parser.parse_args()
 
-PAD = 5
+PAD = 0
+
+if args.monitor:
+    monitors_s = os.popen('hyprctl monitors -j')
+    json_string = monitors_s.read()
+    monitors = json.loads(json_string)
+
+    monitor = next(mon for mon in monitors if mon["focused"])
+    pos = [monitor["x"], monitor["y"]]
+    size = [monitor["width"], monitor["height"]]
+else:
+    PAD = 5
+
+    activewindow_s = os.popen('hyprctl activewindow -j')
+    json_string = activewindow_s.read()
+
+    payload = json.loads(json_string)
+    pos = payload["at"]
+    size = payload["size"]
 
 print("{},{} {}x{}".format(
     int(pos[0]) - PAD,
