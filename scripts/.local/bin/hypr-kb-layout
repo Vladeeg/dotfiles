@@ -14,6 +14,6 @@ for line in sys.stdin:
 
 info = json.loads(json_string)
 keyboards = info["keyboards"]
-keeb = next(keeb for keeb in keyboards if keeb["main"])
+keeb = next(keeb for keeb in keyboards if "at-translated" in keeb["name"])
 
 print(layout_map[keeb["active_keymap"]])

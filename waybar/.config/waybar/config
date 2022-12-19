@@ -1,13 +1,13 @@
 {
     "layer": "top", // Waybar at top layer
-    // "position": "bottom", // Waybar position (top|bottom|left|right)
+    // "position": "left", // Waybar position (top|bottom|left|right)
     "height": 25, // Waybar height (to be removed for auto height)
-    // "width": 1280, // Waybar width
-    "spacing": 0, // Gaps between modules (4px)
+    // "width": 44, // Waybar width
+    "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": ["wlr/workspaces"],
     // "modules-center": ["hyprland/window"],
-    "modules-right": ["custom/hypr-kbd", "pulseaudio", "network", "cpu", "memory", "temperature", "backlight", "battery", "clock", "custom/notification", "tray"],
+    "modules-right": ["hyprland/language", "pulseaudio", "network", "cpu", "memory", "temperature", "backlight", "battery", "clock", "custom/notification", "tray"],
     // Modules configuration
     "wlr/workspaces": {
     	"on-click": "activate",
@@ -26,39 +26,37 @@
         }
     },
     "hyprland/window": {
-	"format": "{}",
-	"separate-outputs": true
+	    "format": "{}",
+	    "separate-outputs": true
     },
     "custom/hypr-kbd": {
-	"exec": "hyprctl devices -j | hypr-kb-layout",
-	"interval": "once",
-	"signal": 8
+	    "exec": "hyprctl devices -j | hypr-kb-layout",
+	    "interval": "once",
+	    "signal": 8
     },
     "custom/notification": {
-	"tooltip": false,
-	"format": "{icon}",
-	"format-icons": {
-	     "notification": "🔔<span foreground='red'><sup></sup></span>",
-	     "none": "🔔",
-	     "dnd-notification": "🔕<span foreground='red'><sup></sup></span>",
-	     "dnd-none": "🔕"
-	},
-	"return-type": "json",
-	"exec-if": "which swaync-client",
-	"exec": "swaync-client -swb",
-	"on-click": "swaync-client -t -sw",
-	"on-click-right": "swaync-client -d -sw",
-	"escape": true
-   },
+	    "tooltip": false,
+	    "format": "{icon}",
+	    "format-icons": {
+	        "notification": "<span foreground='red'><sup></sup></span>",
+	        "none": "<span foreground='white'><sup> </sup></span>",
+	        "dnd-notification": "<span foreground='red'><sup></sup></span>",
+	        "dnd-none": "<span foreground='white'><sup> </sup></span>"
+	    },
+	    "return-type": "json",
+	    "exec-if": "which swaync-client",
+	    "exec": "swaync-client -swb",
+	    "on-click": "swaync-client -t -sw",
+	    "on-click-right": "swaync-client -d -sw",
+	    "escape": true
+    },
 
-    "keyboard-state": {
-        "numlock": true,
-        "capslock": true,
-        "format": "{name} {icon}",
-        "format-icons": {
-            "locked": "",
-            "unlocked": ""
-        }
+    "hyprland/language": {
+        "format": "{}",
+        "format-ru": "ru",
+        "format-us": "us",
+        "format-en": "us",
+        "keyboard-name": "at-translated-set-2-keyboard"
     },
     "sway/mode": {
         "format": "<span style=\"italic\">{}</span>"
@@ -109,7 +107,7 @@
     },
     "clock": {
         // "timezone": "America/New_York",
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "tooltip-format": "<big>{:%Y %B}</big> <tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}"
     },
     "cpu": {
@@ -117,7 +115,7 @@
         "tooltip": false
     },
     "memory": {
-        "format": "{}% "
+        "format": "{}% "
     },
     "temperature": {
         // "thermal-zone": 2,
@@ -130,7 +128,7 @@
     "backlight": {
         // "device": "acpi_video1",
         "format": "{percent}% {icon}",
-        "format-icons": ["", "", "", "", "", ""]
+        "format-icons": ["", "", "", ""]
     },
     "battery": {
         "states": {
@@ -152,7 +150,7 @@
     "network": {
         // "interface": "wlp2*", // (Optional) To force the use of this interface
         "format-wifi": "({signalStrength}%) ",
-        "format-ethernet": "{ipaddr}/{cidr} ",
+        "format-ethernet": "{ipaddr}/{cidr} ",
         "tooltip-format": "{ifname} via {gwaddr} ",
         "format-linked": "{ifname} (No IP) ",
         "format-disconnected": "Disconnected ⚠",
@@ -162,14 +160,14 @@
         // "scroll-step": 1, // %, can be a float
         "format": "{volume}% {icon} {format_source}",
         "format-bluetooth": "{volume}% {icon} {format_source}",
-        "format-bluetooth-muted": " {icon} {format_source}",
-        "format-muted": " {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
         "format-source": "{volume}% ",
         "format-source-muted": "",
         "format-icons": {
             "headphone": "",
-            "hands-free": "",
-            "headset": "",
+            "hands-free": "",
+            "headset": "",
             "phone": "",
             "portable": "",
             "car": "",

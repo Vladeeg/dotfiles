@@ -1,0 +1,15 @@
+@theme "./theme.rasi"
+
+configuration {
+    show-icons: false;
+}
+
+window {
+    width: 200px;
+}
+
+listview {
+    lines: 3;
+    columns: 1;
+}
+
